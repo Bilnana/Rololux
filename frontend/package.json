@@ -1,0 +1,19 @@
+{
+  "name": "rololux",
+  "version": "1.0.0",
+  "description": "rololux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Biljana",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}

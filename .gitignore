@@ -1,0 +1,6 @@
+#OS specific files
+#IDE setings
+/.idea/
+#Docker running environment
+/runtime
+node_modules/
