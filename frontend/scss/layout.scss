@@ -74,22 +74,28 @@
     text-align: center;
     font-family:'Amble-Bold';
 }
-
+.slider1 .carousel-inner  .box {
+    padding-left: 0px;
+    padding-right: 0px;
+    width:100%;
+    height: 350px;
+}
 .slider1{
-    height: 100%;
-    width: 100%;
-    padding-top: 0;
-    padding-left:0;
-    padding-right:0;
-    background-color: red;
+    padding-top: 10%;
+}
+.slider1 .carousel-inner .box img {
+    width:100%;
+    height:100%;
+
+}
+.slider1 .carousel-inner .carousel-caption{
+    display: block;
+    color: $white;
 }
 
-.slider1 .crausel slide {
-    height: 100%;
-}
 .roletne .text-blok1{
     height:100%;
-    padding-top: 5%;
+    padding-top: 20%;
 }
 .roletne .text-blok1 ul li{
     list-style-type: none;
