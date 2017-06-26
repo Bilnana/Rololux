@@ -71,6 +71,57 @@
             </div>
         </div>
     </header>
+    <!-- SECTION ROLETNE -->
+    <section id="rololux1">
+        <article class="roletne">
+            <header class="roletne-head1">
+                <h1>Roletne</h1>
+            </header>
+            <div class="row row-content">
+                <section class="col-sm-12 col-md-6 col-lg-6">
+                    <article class="text-block1">
+                        <ul>
+                            <li>Roletne su jedan od najstarijih i najrasprostranjenijih zasenjivača prostora Ugrađuju se na prozore ili vrata, sa spoljašnje strane samog otvora. Roletne služe i kao zaštita same stolarije na koju se ugrađuju od vremenskih promena i nepogoda(sunce, kiša, grad, sneg..). Mogu biti plastične ili aluminijumske.</li>
+                            <li>I jedne i druge klize gore-dole po vođicama koje mogu biti fiksirane ili na izbacivanje Kod fiksiranih vođica roletna ima mogućnost klizanja smo gore-dole. Za razliku od ovih, vođice na izbacivanje poseduju tzv. makaze koje omogućavaju izbacivanje donjeg dela roletne ka spolja.</li>
+                            <li>- Kod aluminijumskih roletni vođice takođe mogu biti od aluminijuma i takav tip roletne se zove "total aluminijum". Ovaj tip roletni ima i giksirane vođice i mogućnosti izbacivanja ka spolja. Vođice se obično plastificiraju u boju same roletne.</li>
+                            <li>- Plastične roletne su jeftinije od aluminijumskih roletni ali se ne preporučuju za velike površine otvora koji se nalaze na sunčanim stranama objekata u koji se roletne ugrađjuj. Za razliku od plastičnih roletni, aluminijumske roletne su dužeg veka trajanja.</li>
+                            <li>Aluminijumske roletne se sastoje od aluminijumskih letvica šitine 3.9 cm. Svaka letvica je ispunjena poliureanom što predstavlja odličnu, kako zvučnu, tako i toplotnu izolaciju. Zastor za aluminijumske roletne postoji u nekoliko boja:</li>
+                        </ul>
+                        <ul>
+                            <li>Bela,</li>
+                            <li>Braon,</li>
+                            <li>Siva,</li>
+                            <li>Mahagoni i</li>
+                            <li>Drvo.</li>
+                        </ul>
+                    </article>
+                </section>
+                <section class="slider1 col-sm-12 col-md-6 col-lg-6">
+                    <div id="crausel1" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner" role="listbox">
+                            <div class="carousel-item active">
+                                <img src="/img/rolozavese/pic1.jpg" class="img-center" src="..." alt="First slide">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="/img/rolozavese/pic2.jpg" class="img-center" src="..." alt="Second slide">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="/img/rolozavese/pic3.jpg" class="img-center" src="..." alt="Third slide">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#crausel1" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#crausel1" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                </section>
+            </div>
+        </article>
+    </section>
     <footer class="footer">
         <div class="row">
             <div class="col-sm-3"></div>

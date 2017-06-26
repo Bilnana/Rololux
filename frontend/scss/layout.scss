@@ -64,7 +64,7 @@
 
 /*************SECTION ROLETNE*****************/
 .roletne{
-    height:700px;
+    height:800px;
     padding-top: 50px;
     background-color:#d9d9d9;
 }
@@ -72,6 +72,7 @@
 .roletne-head1{
     padding-top: 50px;
     text-align: center;
+    font-family:'Amble-Bold';
 }
 
 .slider1{
@@ -89,6 +90,14 @@
 .roletne .text-blok1{
     height:100%;
     padding-top: 5%;
+}
+.roletne .text-blok1 ul li{
+    list-style-type: none;
+}
+
+roletne .text-blok1 li{
+    list-style-type: none;
+    font-family:'Amble-Light';
 }
 /*************SECTION ROLETNE*****************/
 
@@ -137,6 +146,7 @@
 .footer .nav-footer li{
     display: inline;
     padding-left: 40px;
+    list-style-type: none;
  }
 .footer .nav-footer li a{
     text-decoration: underline;
