@@ -71,6 +71,25 @@
             </div>
         </div>
     </header>
+    <footer class="footer">
+        <div class="row">
+            <div class="col-sm-3"></div>
+            <div class="col-sm-5">
+                <ul class="nav-footer">
+                    <li><a href="#">Pocetna</a></li>
+                    <li><a href="#">O nama</a></li>
+                    <li><a href="#">Kontakt</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-4">
+                <ul class="contacts">
+                    <li><span class="adress"></span>Subotička 67<br>21 000 Novi Sad, Srbija</li>
+                    <li><span class="phone"></span>fax 021/ 2466-467<br>mob 063/ 8-063-531<br>mob 064/ 11-59-532</li>
+                    <li><span class="email"></span>rololuxns@yahoo.com</li>
+                </ul>
+            </div>
+        </div>
+    </footer>
 </div>
 
 <script src="/js/jquery.min.js"></script>
