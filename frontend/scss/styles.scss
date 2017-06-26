@@ -1,2 +1,11 @@
+body{
+  background: url(/img/bodyBG.jpg);
+}
+.row-content{
+  padding-left: 3%;
+  padding-right: 3%;
+}
 @import "variables";
 @import "bootstrap";
+@import "layout";
+@import "fonts";
