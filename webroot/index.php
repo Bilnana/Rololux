@@ -54,19 +54,27 @@
             <div class="carousel-inner" role="listbox">
                 <div class="box carousel-item active">
                     <img src="/img/hero/pic1.jpg" class="d-block img-responsive img-center">
-                    <div class="carousel-caption d-none d-md-block">
-                        <h3>Pvoljno</h3>
-                        <p>jeftino</p>
+                    <div class="carousel-caption"
+                        <p>IZRADA, POPRAVKA I ODRŽAVANJE: Aluminijumskih i PVC roletni, tendi, venecijanera, trakastih zavesa..</p>
                     </div>
                 </div>
                 <div class="box carousel-item">
                     <img src="/img/hero/pic2.jpg" class="d-block img-responsive img-center">
+                    <div class="carousel-caption"
+                         <p>Rolo komarnika, Plisiranih zavesa, Harmonika vrata, Dihtovanje prozora i vrata aluminijumskim lajsnama</p>
+                    </div>
                 </div>
                 <div class="box carousel-item">
                     <img src="/img/hero/pic3.jpg" class="d-block img-responsive img-center">
+                    <div class="carousel-caption"
+                         <p>Odlična toplotna i zvučna izolacija!</p>
+                    </div>
                 </div>
                 <div class="box carousel-item">
                     <img src="/img/hero/pic4.jpg" class="d-block img-responsive img-center">
+                    <div class="carousel-caption"
+                        <p>Brzo i trajno!</p>
+                    </div>
                 </div>
             </div>
         </div>
