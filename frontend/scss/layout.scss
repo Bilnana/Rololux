@@ -175,10 +175,16 @@ roletne .text-blok1 li{
 .footer .contacts{
      padding-top: 20px;
      color:$white;
+     text-align: left;
+     margin-top: 20px;
      font-family:'Amble-Bold';
  }
 .footer .contacts li{
-  text-decoration: none;
+    text-decoration: none;
+    list-style-type: none;
 }
 
+.footer .home i, .footer .fax i, .footer .phone i, .footer .email i{
+    padding-right: 10px;
+}
 /***************FOOTER*******************/
