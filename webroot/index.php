@@ -54,9 +54,8 @@
             <div class="carousel-inner" role="listbox">
                 <div class="box carousel-item active">
                     <img src="/img/hero/pic1.jpg" class="d-block img-responsive img-center">
-                    <div class="carousel-caption d-none d-md-block">
-                        <h3>Pvoljno</h3>
-                        <p>jeftino</p>
+                    <div class="carousel-caption"
+                        <p>IZRADA, POPRAVKA I ODRŽAVANJE: Aluminijumskih i PVC roletni, tendi, venecijanera, trakastih zavesa..</p>
                     </div>
                 </div>
                 <div class="box carousel-item">

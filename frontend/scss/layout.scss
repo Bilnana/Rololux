@@ -57,6 +57,19 @@
 .mainhead .carousel-inner .carousel-caption{
     display: block;
     color: $white;
+    font-size: 22px;
+    font-family:'Amble-Light';
+    width: 100%;
+    height: 120px;
+    background-color: rgba(0, 0, 7, 0.5);
+    position: absolute;
+    bottom: 0px;
+    left:0px;
+}
+.mainhead .carousel-inner{
+    position: relative;
+    width: 100%;
+    height: 100%;
 }
 
 /******************* HEADER *******************/
