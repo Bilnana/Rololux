@@ -7,7 +7,8 @@
     <title>Rololux</title>
     <meta name="Biljana Ljubojevic" content="Task">
     <!-- CSS file -->
-    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="stylesheet" href="/css/styles.css" type="text/css">
+    <link rel="stylesheet" href="/css/font-awesome.css" type="text/css">
 </head>
 
 <body>
@@ -132,7 +133,11 @@
     </section>
     <footer class="footer">
         <div class="row">
-            <div class="col-sm-3"></div>
+            <div class="col-sm-3">
+                <div class="social">
+                    <a href="https://www.facebook.com/RololuxNs" target="_blank"><img src="img/social-icons/fb.png" alt="facebook"></a>
+                </div>
+            </div>
             <div class="col-sm-5">
                 <ul class="nav-footer">
                     <li><a href="#">Pocetna</a></li>
@@ -142,9 +147,11 @@
             </div>
             <div class="col-sm-4">
                 <ul class="contacts">
-                    <li><span class="adress"></span>Subotička 67<br>21 000 Novi Sad, Srbija</li>
-                    <li><span class="phone"></span>fax 021/ 2466-467<br>mob 063/ 8-063-531<br>mob 064/ 11-59-532</li>
-                    <li><span class="email"></span>rololuxns@yahoo.com</li>
+                    <li><span class="home"><i class="fa fa-home" aria-hidden="true"></i></span>Subotička 67 21 000 Novi Sad, Srbija</li>
+                    <li><span class="fax"><i class="fa fa-fax" aria-hidden="true"></i></span>021/ 2466-467</li>
+                    <li><span class="phone"><i class="fa fa-phone" aria-hidden="true"></i>063/ 8-063-531 &nbsp;&nbsp; | &nbsp;&nbsp; 064/ 11-59-532</li>
+                    <li><span class="email"><i class="fa fa-envelope" aria-hidden="true"></i></span>rololuxns@yahoo.com</li>
+                    <li><span class="email"><i class="fa fa-envelope" aria-hidden="true"></i></span>miklos@drupal.rs</li>
                 </ul>
             </div>
         </div>

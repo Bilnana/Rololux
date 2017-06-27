@@ -77,7 +77,6 @@
 
 /*************SECTION ROLETNE*****************/
 .roletne{
-    height:800px;
     padding-top: 50px;
     background-color:#d9d9d9;
 }
@@ -153,14 +152,14 @@ roletne .text-blok1 li{
 /***************FOOTER*******************/
 .footer{
     width: 100%;
-    height: 200px;
+    margin: auto;
     text-align: center;
     background:url(/img/navpic.jpg);
 }
 .footer .nav-footer{
     display: block;
     font-family:'Amble-Bold';
-    padding-top: 90px;
+    padding-top: 80px;
 }
 .footer .nav-footer li{
     display: inline;
@@ -168,17 +167,42 @@ roletne .text-blok1 li{
     list-style-type: none;
  }
 .footer .nav-footer li a{
-    text-decoration: underline;
+    border-bottom: 2px solid $blue;
+    text-decoration: none;
+    transition: all 0.3s ease 0s;
     color: $white;
 
 }
+
+.footer .nav-footer li a:hover{
+    color:$blue;
+    font-family:'Amble-Bold';
+    font-size: 18px;
+    border-bottom: 2px solid $white;
+    transform: scale(1.1);
+}
+
 .footer .contacts{
-     padding-top: 20px;
      color:$white;
+     text-align: left;
+     padding: 20px;
      font-family:'Amble-Bold';
  }
 .footer .contacts li{
-  text-decoration: none;
+    text-decoration: none;
+    list-style-type: none;
 }
 
+.footer .home i, .footer .fax i, .footer .phone i, .footer .email i{
+    padding-right: 10px;
+    color: $blue;
+}
+
+.footer .social{
+    margin: auto;
+}
+
+.footer .social img{
+    padding: 60px 0 0 95px;
+}
 /***************FOOTER*******************/
