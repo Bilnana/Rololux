@@ -7,7 +7,8 @@
     <title>Rololux</title>
     <meta name="Biljana Ljubojevic" content="Task">
     <!-- CSS file -->
-    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="stylesheet" href="/css/styles.css" type="text/css">
+    <link rel="stylesheet" href="/css/font-awesome.css" type="text/css">
 </head>
 
 <body>
