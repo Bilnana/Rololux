@@ -133,7 +133,11 @@
     </section>
     <footer class="footer">
         <div class="row">
-            <div class="col-sm-3"></div>
+            <div class="col-sm-3">
+                <div class="social">
+                    <a href="https://www.facebook.com/RololuxNs" target="_blank"><img src="img/social-icons/fb.png" alt="facebook"></a>
+                </div>
+            </div>
             <div class="col-sm-5">
                 <ul class="nav-footer">
                     <li><a href="#">Pocetna</a></li>

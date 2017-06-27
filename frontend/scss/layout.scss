@@ -168,10 +168,21 @@ roletne .text-blok1 li{
     list-style-type: none;
  }
 .footer .nav-footer li a{
-    text-decoration: underline;
+    border-bottom: 2px solid $blue;
+    text-decoration: none;
+    transition: all 0.3s ease 0s;
     color: $white;
 
 }
+
+.footer .nav-footer li a:hover{
+    color:$blue;
+    font-family:'Amble-Bold';
+    font-size: 18px;
+    border-bottom: 2px solid $white;
+    transform: scale(1.1);
+}
+
 .footer .contacts{
      padding-top: 20px;
      color:$white;
@@ -186,5 +197,14 @@ roletne .text-blok1 li{
 
 .footer .home i, .footer .fax i, .footer .phone i, .footer .email i{
     padding-right: 10px;
+    color: $blue;
+}
+
+.footer .social{
+    margin: auto;
+}
+
+.footer .social img{
+    padding: 65px 0 0 95px;
 }
 /***************FOOTER*******************/
