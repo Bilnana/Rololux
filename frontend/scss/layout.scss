@@ -149,6 +149,52 @@ roletne .text-blok1 li{
 }
 /*************SECTION TENDE*****************/
 
+/*************SECTION KONTAKT*****************/
+
+
+.contact-details h1{
+    text-align: center;
+    font-family:'Amble-Bold';
+    font-size: 22px;
+    padding: 20px;
+}
+.contact-details h2{
+    font-size: 16px;
+    text-align: center;
+    font-family:'Amble-Bold';
+}
+
+.contact-details .adress,.mail,.phone,.fax {
+    padding-top: 40px;
+}
+
+.contact-details .phone {
+    background:url(../img/contact-icons/phone.png) center top/36px 36px no-repeat rgba(0,0,0,0)
+}
+
+.contact-details .mail {
+    background:url(../img/contact-icons/a.png) center top/36px 36px no-repeat rgba(0,0,0,0)
+}
+
+.contact-details .adress {
+    background:url(../img/contact-icons/maps.png) center top/36px 36px no-repeat rgba(0,0,0,0)
+}
+
+.contact-details .fax {
+    background:url(../img/contact-icons/fax.png) center top/36px 36px no-repeat rgba(0,0,0,0)
+}
+
+.map{
+    width: 100%;
+    height: 350px;
+}
+
+.map-box .google-map{
+    width: 100%;
+    height: 100%;
+}
+/*************SECTION KONTAKT*****************/
+
 /***************FOOTER*******************/
 .footer{
     width: 100%;

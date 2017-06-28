@@ -131,6 +131,30 @@
             </div>
         </article>
     </section>
+
+    <!-- SECTION CONTACT -->
+<section id="rololux1">
+    <div class="roletne">
+        <div class="contact-map row row-content">
+            <section class="bg-contact col-sm-12 col-md-6 col-lg-6">
+                <adress class="contact-details">
+                    <h1>Kontakt</h1>
+                    <h2 class="phone">063/ 8-063-531 | 064/ 11-59-532</h2>
+                    <h2 class="fax">021/ 2466-467</h2>
+                    <h2 class="mail">rololuxns@yahoo.com | miklos@drupal.rs</h2>
+                    <h2 class="adress">Subotička 67 21 000 Novi Sad, Srbija</h2>
+                </adress>
+            </section>
+            <div class="map-box col-sm-12 col-md-6 col-lg-6">
+                <div class="map">
+                    <iframe class="google-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2809.31127914903!2d19.813731615168646!3d45.2414978790989!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475b102fbcfe803f%3A0xebe83980b39f34ad!2z0KHRg9Cx0L7RgtC40YfQutCwIDY3LCDQndC-0LLQuCDQodCw0LQgMjExMjQ!5e0!3m2!1ssr!2srs!4v1498654586909" frameborder="0" style="border:0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+    <!-- SECTION CONTACT -->
+
     <footer class="footer">
         <div class="row">
             <div class="col-sm-3">
