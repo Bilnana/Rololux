@@ -82,7 +82,7 @@
     </header>
     <!-- SECTION ROLETNE -->
     <section id="rololux1">
-        <article class="roletne">
+        <div class="roletne">
             <header class="roletne-head1">
                 <h1>Roletne</h1>
             </header>
@@ -105,7 +105,7 @@
                         </ul>
                     </article>
                 </section>
-                <section class="slider1 col-sm-12 col-md-6 col-lg-6">
+                <div class="slider1 col-sm-12 col-md-6 col-lg-6">
                     <div id="crausel1" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner" role="listbox">
                             <div class="box carousel-item active">
@@ -127,9 +127,9 @@
                             <span class="sr-only">Next</span>
                         </a>
                     </div>
-                </section>
+                </div>
             </div>
-        </article>
+        </div>
     </section>
 
     <!-- SECTION CONTACT -->
