@@ -89,17 +89,14 @@
             <div class="row row-content">
                 <div class="col-sm-12 col-md-6 col-lg-6">
                     <article class="text-block1">
-                        <ul class="main-ul">
-                            <li>Roletne su jedan od najstarijih i najrasprostranjenijih zasenjivača prostora Ugrađuju se na prozore ili vrata, sa spoljašnje strane samog otvora. Roletne služe i kao zaštita same stolarije na koju se ugrađuju od vremenskih promena i nepogoda(sunce, kiša, grad, sneg..). Mogu biti plastične ili aluminijumske.</li>
-                            <li>I jedne i druge klize gore-dole po vođicama koje mogu biti fiksirane ili na izbacivanje Kod fiksiranih vođica roletna ima mogućnost klizanja smo gore-dole. Za razliku od ovih, vođice na izbacivanje poseduju tzv. makaze koje omogućavaju izbacivanje donjeg dela roletne ka spolja.
-                                <ul class="dashed">
-                                    <li>Kod aluminijumskih roletni vođice takođe mogu biti od aluminijuma i takav tip roletne se zove "total aluminijum". Ovaj tip roletni ima i giksirane vođice i mogućnosti izbacivanja ka spolja. Vođice se obično plastificiraju u boju same roletne.</li>
-                                    <li>Plastične roletne su jeftinije od aluminijumskih roletni ali se ne preporučuju za velike površine otvora koji se nalaze na sunčanim stranama objekata u koji se roletne ugrađjuj. Za razliku od plastičnih roletni, aluminijumske roletne su dužeg veka trajanja.</li>
-                                    <li>Aluminijumske roletne se sastoje od aluminijumskih letvica šitine 3.9 cm. Svaka letvica je ispunjena poliureanom što predstavlja odličnu, kako zvučnu, tako i toplotnu izolaciju. Zastor za aluminijumske roletne postoji u nekoliko boja:</li>
-                                </ul>
-                            </li>
-                        </ul>
-                        <ul class="dashed1">
+                        <p>Roletne su jedan od najstarijih i najrasprostranjenijih zasenjivača prostora Ugrađuju se na prozore ili vrata, sa spoljašnje strane samog otvora. Roletne služe i kao zaštita same stolarije na koju se ugrađuju od vremenskih promena i nepogoda(sunce, kiša, grad, sneg..). Mogu biti <strong>plastične ili aluminijumske.</strong>
+                        </p>
+                        <p>I jedne i druge klize gore-dole po vođicama koje mogu biti fiksirane ili na izbacivanje Kod fiksiranih vođica roletna ima mogućnost klizanja smo gore-dole. Za razliku od ovih, vođice na izbacivanje poseduju tzv. makaze koje omogućavaju izbacivanje donjeg dela roletne ka spolja.
+                        </p>
+                        <p>Kod <strong>aluminijumskih</strong> roletni vođice takođe mogu biti od aluminijuma i takav tip roletne se zove "total aluminijum". Ovaj tip roletni ima i giksirane vođice i mogućnosti izbacivanja ka spolja. Vođice se obično plastificiraju u boju same roletne.</p>
+                        <p><strong>Plastične</strong> roletne su jeftinije od aluminijumskih roletni ali se ne preporučuju za velike površine otvora koji se nalaze na sunčanim stranama objekata u koji se roletne ugrađjuj. Za razliku od plastičnih roletni, aluminijumske roletne su dužeg veka trajanja.</p>
+                        <p>Aluminijumske roletne se sastoje od aluminijumskih letvica šitine 3.9 cm. Svaka letvica je ispunjena poliureanom što predstavlja odličnu, kako zvučnu, tako i toplotnu izolaciju. Zastor za aluminijumske roletne postoji u nekoliko boja:</p>
+                        <ul class="dashed">
                             <li>Bela,</li>
                             <li>Braon,</li>
                             <li>Siva,</li>
