@@ -92,10 +92,10 @@
     padding-left: 0px;
     padding-right: 0px;
     width:100%;
-    height: 350px;
+    height: 300px;
 }
 .slider1{
-    padding-top: 10%;
+    //padding-top: 10%;
 }
 .slider1 .carousel-inner .box img {
     width:100%;
@@ -110,6 +110,9 @@
 .roletne .text-blok1{
     height:100%;
     padding-top: 20%;
+    text-align:justify;
+}
+.roletne .text-blok2{
     text-align:justify;
 }
 .roletne .main-ul {
