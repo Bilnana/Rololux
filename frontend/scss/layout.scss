@@ -77,11 +77,12 @@
 
 /*************SECTION ROLETNE*****************/
 .roletne{
-    padding-top: 50px;
+    padding-top: 20px;
     background-color:#d9d9d9;
+    font-family:'Amble-Bold';
+    font-size: 16px;
 }
-
-.roletne-head1{
+.header-content{
     padding-top: 50px;
     text-align: center;
     font-family:'Amble-Bold';
@@ -108,46 +109,31 @@
 .roletne .text-blok1{
     height:100%;
     padding-top: 20%;
+    text-align:justify;
 }
-.roletne .text-blok1 ul li{
-    list-style-type: none;
+.roletne .main-ul {
+    list-style: none;
 }
-
-roletne .text-blok1 li{
-    list-style-type: none;
-    font-family:'Amble-Light';
+.roletne .dashed {
+    list-style: none;
+    padding: 0 0 0 24px
+}
+.roletne .dashed > li:before {
+    content: '-';
+    float: left;
+    margin-left: -2
+}
+.roletne .dashed1{
+    list-style: none;
+    padding: 0 0 0 24px;
+    marign-left: 20px;
+}
+.roletne .dashed1 > li:before {
+    content: '-';
+    float: left;
+    margin-left: -2
 }
 /*************SECTION ROLETNE*****************/
-
-/*************SECTION TENDE*****************/
-.tende{
-    height:600px;
-    //margin-top: 50px;
-    background-color:#f2f2f2;
-}
-
-.tende-head2{
-    padding-top: 50px;
-    text-align: center;
-}
-
-.slider2{
-    height: 100%;
-    width: 100%;
-    padding-top: 0;
-    padding-left:0;
-    padding-right:0;
-    background-color: red;
-}
-
-.slider2 .crausel slide {
-    height: 100%;
-}
-.tende .text-blok2{
-    height:100%;
-    padding-top: 5%;
-}
-/*************SECTION TENDE*****************/
 
 /*************SECTION KONTAKT*****************/
 
