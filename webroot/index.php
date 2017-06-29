@@ -93,16 +93,6 @@
                         </p>
                         <p>I jedne i druge klize gore-dole po vođicama koje mogu biti fiksirane ili na izbacivanje Kod fiksiranih vođica roletna ima mogućnost klizanja smo gore-dole. Za razliku od ovih, vođice na izbacivanje poseduju tzv. makaze koje omogućavaju izbacivanje donjeg dela roletne ka spolja.
                         </p>
-                        <p>Kod <strong>aluminijumskih</strong> roletni vođice takođe mogu biti od aluminijuma i takav tip roletne se zove "total aluminijum". Ovaj tip roletni ima i giksirane vođice i mogućnosti izbacivanja ka spolja. Vođice se obično plastificiraju u boju same roletne.</p>
-                        <p><strong>Plastične</strong> roletne su jeftinije od aluminijumskih roletni ali se ne preporučuju za velike površine otvora koji se nalaze na sunčanim stranama objekata u koji se roletne ugrađjuj. Za razliku od plastičnih roletni, aluminijumske roletne su dužeg veka trajanja.</p>
-                        <p>Aluminijumske roletne se sastoje od aluminijumskih letvica šitine 3.9 cm. Svaka letvica je ispunjena poliureanom što predstavlja odličnu, kako zvučnu, tako i toplotnu izolaciju. Zastor za aluminijumske roletne postoji u nekoliko boja:</p>
-                        <ul class="dashed">
-                            <li>Bela,</li>
-                            <li>Braon,</li>
-                            <li>Siva,</li>
-                            <li>Mahagoni i</li>
-                            <li>Drvo.</li>
-                        </ul>
                     </article>
                 </div>
                 <div class="slider1 col-sm-12 col-md-6 col-lg-6">
@@ -127,6 +117,20 @@
                             <span class="sr-only">Next</span>
                         </a>
                     </div>
+                </div>
+                <div class="col-sm-12">
+                    <article class="text-blok2">
+                        <p>Kod <strong>aluminijumskih</strong> roletni vođice takođe mogu biti od aluminijuma i takav tip roletne se zove "total aluminijum". Ovaj tip roletni ima i giksirane vođice i mogućnosti izbacivanja ka spolja. Vođice se obično plastificiraju u boju same roletne.</p>
+                        <p><strong>Plastične</strong> roletne su jeftinije od aluminijumskih roletni ali se ne preporučuju za velike površine otvora koji se nalaze na sunčanim stranama objekata u koji se roletne ugrađjuj. Za razliku od plastičnih roletni, aluminijumske roletne su dužeg veka trajanja.</p>
+                        <p>Aluminijumske roletne se sastoje od aluminijumskih letvica šitine 3.9 cm. Svaka letvica je ispunjena poliureanom što predstavlja odličnu, kako zvučnu, tako i toplotnu izolaciju. Zastor za aluminijumske roletne postoji u nekoliko boja:</p>
+                        <ul class="dashed">
+                            <li>Bela,</li>
+                            <li>Braon,</li>
+                            <li>Siva,</li>
+                            <li>Mahagoni i</li>
+                            <li>Drvo.</li>
+                        </ul>
+                    </article>
                 </div>
             </div>
         </div>
