@@ -172,24 +172,48 @@
             <h1>Tende</h1>
         </header>
         <div class="row row-content">
-            <div class="slider1 col-sm-12 col-md-6 col-lg-6">
+            <div class="slider2 col-sm-12 col-md-6 col-lg-6">
                 <div id="crausel2" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner" role="listbox">
                         <div class="box carousel-item active">
-                            <img src="/img/rolozavese/pic1.jpg" class="img-center" src="..." alt="First slide">
+                            <img src="/img/tende/pic1.jpg" class="img-center" src="..." alt="First slide">
                         </div>
                         <div class="box carousel-item">
-                            <img src="/img/rolozavese/pic2.jpg" class="img-center" src="..." alt="Second slide">
+                            <img src="/img/tende/pic2.jpg" class="img-center" src="..." alt="Second slide">
                         </div>
                         <div class="box carousel-item">
-                            <img src="/img/rolozavese/pic3.jpg" class="img-center" src="..." alt="Third slide">
+                            <img src="/img/tende/pic3.jpg" class="img-center" src="..." alt="Third slide">
+                        </div>
+                        <div class="box carousel-item">
+                            <img src="/img/tende/pic4.jpg" class="img-center" src="..." alt="Second slide">
+                        </div>
+                        <div class="box carousel-item">
+                            <img src="/img/tende/pic5.jpg" class="img-center" src="..." alt="Third slide">
+                        </div>
+                        <div class="box carousel-item">
+                            <img src="/img/tende/pic6.jpg" class="img-center" src="..." alt="Second slide">
+                        </div>
+                        <div class="box carousel-item">
+                            <img src="/img/tende/pic7.jpg" class="img-center" src="..." alt="Third slide">
+                        </div>
+                        <div class="box carousel-item">
+                            <img src="/img/tende/pic8.jpg" class="img-center" src="..." alt="Second slide">
+                        </div>
+                        <div class="box carousel-item">
+                            <img src="/img/tende/pic9.jpg" class="img-center" src="..." alt="Third slide">
+                        </div>
+                        <div class="box carousel-item">
+                            <img src="/img/tende/pic10.jpg" class="img-center" src="..." alt="Second slide">
+                        </div>
+                        <div class="box carousel-item">
+                            <img src="/img/tende/pic11.jpg" class="img-center" src="..." alt="Third slide">
                         </div>
                     </div>
-                    <a class="carousel-control-prev" href="#crausel1" role="button" data-slide="prev">
+                    <a class="carousel-control-prev" data-target="#crausel2" role="button" data-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                         <span class="sr-only">Previous</span>
                     </a>
-                    <a class="carousel-control-next" href="#crausel1" role="button" data-slide="next">
+                    <a class="carousel-control-next" data-target="#crausel2" role="button" data-slide="next">
                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
                         <span class="sr-only">Next</span>
                     </a>
@@ -198,7 +222,7 @@
             <div class="col-sm-12 col-md-6 col-lg-6">
                 <article class="text-blok1">
                     <p>Tende su potreba, ali i ukras vašeg doma ili poslovnog prostora. Čine zaštitu od<br> prejakog sunca ili svetla, a veličinom i oblikom se mogu prilagoditi svakom<br> zahtevu. Mi vam nudimo celokupan izbor tendi:</p>
-                    <ul class="dashed">
+                    <ul>
                         <li>Ravne</li>
                         <li>Polukružne</li>
                         <li>Kupolaste</li>
@@ -209,7 +233,7 @@
                     </ul>
                     <p>Cena zavisi od veličine, vrste i načina namotavanja, materijala, a:
                     </p>
-                    <ul class="dashed">
+                    <ul>
                         <li>Kvalitet, sigurnost i izuzetan estetski utisak može se postići ugradnjom naših tendi</li>
                         <li>Raznovrsnim izborom boja i dezena platna omogućićemo najprikladnije rešenje za vaš ambijent.</li>
                         <li>Svi tipovi tendi podjednako dobro i kvalitetno štite, kako od sunca, tako i od kiše.</li>
