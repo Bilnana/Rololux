@@ -186,34 +186,15 @@
 
 .tende .text-blok1{
   height:100%;
-  //padding-top: 20%;
   text-align:justify;
 }
 .tende .text-blok2{
   text-align:justify;
 }
-.tende .main-ul {
-  list-style: none;
+.tende ul {
+  list-style-type: disc;
 }
-.tende .dashed {
-  list-style: none;
-  padding: 0 0 0 24px
-}
-.tende .dashed > li:before {
-  content: '-';
-  float: left;
-  margin-left: -2
-}
-.tende .dashed1{
-  list-style: none;
-  padding: 0 0 0 24px;
-  marign-left: 20px;
-}
-.tende .dashed1 > li:before {
-  content: '-';
-  float: left;
-  margin-left: -2
-}
+
 /*************SECTION TENDE ****************/
 
 /*************SECTION KONTAKT*****************/
