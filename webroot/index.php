@@ -136,7 +136,7 @@
         </div>
     </section>
     <!-- END SECTION ROLETNE -->
-<!-- SECTION ROLETNE -->
+<!-- SECTION TENDE -->
 <section id="rololux2">
     <div class="tende">
         <header class="header-content">
