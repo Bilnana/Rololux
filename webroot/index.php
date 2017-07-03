@@ -27,25 +27,26 @@
                         <a class="nav-link" href="#">Pocetna<span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">O Nama</a>
+                        <a class="nav-link" href="#o-nama">O Nama</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="http://example.com">
                             Proizvodi
                         </a>
                         <ul class="submenu">
-                            <li><a href="#">Submenu a</a></li>
-                            <li><a href="#">Submenu b</a></li>
-                            <li><a href="#">Submenu c</a></li>
-                            <li><a href="#">Submenu d</a></li>
-                            <li><a href="#">Submenu e</a></li>
-                            <li><a href="#">Submenu f</a></li>
-                            <li><a href="#">Submenu g</a></li>
-                            <li><a href="#">Submenu h</a></li>
+                            <li><a href="#rololux1">Roletne</a></li>
+                            <li><a href="#rololux2">Tende</a></li>
+                            <li><a href="#rololux3">Venecijaneri</a></li>
+                            <li><a href="#">Rolo zavese</a></li>
+                            <li><a href="#">Trakaste zavese</a></li>
+                            <li><a href="#">Komarnici</a></li>
+                            <li><a href="#">Dihtovanje</a></li>
+                            <li><a href="#servisiranje">Servis</a></li>
+                            <li><a href="#">Adaptacija prostora</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Kontakt</a>
+                        <a class="nav-link" href="#kontakt">Kontakt</a>
                     </li>
                 </ul>
             </div>
@@ -252,7 +253,7 @@
     <!--END SECTION TENDE -->
 
     <!--SECTION VENECIJANERI -->
-    <section id="rololux1">
+    <section id="rololux3">
         <div class="venecijaneri">
             <header class="header-content">
                 <h1>Venecijaneri</h1>
@@ -339,7 +340,7 @@
     <!-- SECTION SERVISIRANJE END -->
 
     <!-- SECTION CONTACT -->
-    <section id="rololux1">
+    <section id="kontakt">
         <div class="roletne">
             <div class="contact-map row row-content">
                 <section class="bg-contact col-sm-12 col-md-6 col-lg-6">
