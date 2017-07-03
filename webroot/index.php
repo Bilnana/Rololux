@@ -317,6 +317,23 @@
     </section>
     <!--SECTION VENECIJANERI -->
 
+    <!-- SECTION SERVISIRANJE -->
+    <section id="servisiranje">
+        <div class="o-nama-box">
+            <header class="header-content">
+                <h1>Servisiranje</h1>
+            </header>
+            <div class="row row-content">
+                <div class="col-sm-12>
+                    <article class="text-block-o-nama">
+                <p>Vršimo sve vrste popravki i održavanja cele palete naših proizvoda. Za sve informacije, osećajte se slobodnim da nam se obratite na neke od naših brojeva telefona. </p>
+                </article>
+            </div>
+        </div>
+        </div>
+    </section>
+    <!-- SECTION SERVISIRANJE END -->
+
     <!-- SECTION CONTACT -->
     <section id="rololux1">
         <div class="roletne">
