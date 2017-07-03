@@ -37,10 +37,9 @@
   transition: all 0.3s ease 0s;
 }
 
-  //onhover styles
-.navbar-nav li:hover {
-  color:$white;
-  transform: scale(1.1);
+.navbar-nav .submenu a {
+  color: $gray-lighter;
+  text-decoration: none;
 }
 
   //submenu
@@ -57,10 +56,14 @@
   -o-perspective: 400px;
   perspective: 400px;
 }
+
 .submenu li {
+  color: gray;
   opacity: 0;
   background: url(/img/navpic.jpg);
-  min-width: 160px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  min-width: 200px;
   -webkit-transform: rotateY(90deg);
   -moz-transform: rotateY(90deg);
   -ms-transform: rotateY(90deg);
@@ -74,13 +77,10 @@
   transition: opacity .4s, transform .5s;
 }
 
-.navbar-nav > li:hover .submenu, .navbar-nav > li:focus .submenu {
-  max-height: 2000px;
-  z-index: 10;
-}
 .navbar-nav > li:hover .submenu li, .navbar-nav > li:focus .submenu li {
   opacity: 1;
-
+  text-decoration: none;
+  transform: scale(1.1);
   -webkit-transform: none;
   -moz-transform: none;
   -ms-transform: none;
