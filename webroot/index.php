@@ -249,9 +249,9 @@
 
     <!--SECTION VENECIJANERI -->
     <section id="rololux1">
-        <div class="roletne">
+        <div class="venecijaneri">
             <header class="header-content">
-                <h1>Roletne</h1>
+                <h1>Venecijaneri</h1>
             </header>
             <div class="row row-content">
                 <div class="col-sm-12 col-md-6 col-lg-6">
