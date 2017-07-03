@@ -265,7 +265,7 @@
                         <P>Održavanje venecijanera je veoma lako i jednostavno Peru se identično kao i prozori.</P>
                     </article>
                 </div>
-                <div class="slider2Gi col-sm-12 col-md-6 col-lg-6">
+                <div class="slider2Gigi col-sm-12 col-md-6 col-lg-6">
                     <div id="crausel1" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner" role="listbox">
                             <div class="box carousel-item active">
