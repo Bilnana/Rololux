@@ -165,107 +165,179 @@
         </div>
     </section>
     <!-- END SECTION ROLETNE -->
-<!-- SECTION TENDE -->
-<section id="rololux2">
-    <div class="tende">
-        <header class="header-content">
-            <h1>Tende</h1>
-        </header>
-        <div class="row row-content">
-            <div class="slider2 col-sm-12 col-md-6 col-lg-6">
-                <div id="crausel2" class="carousel slide" data-ride="carousel">
-                    <div class="carousel-inner" role="listbox">
-                        <div class="box carousel-item active">
-                            <img src="/img/tende/pic1.jpg" class="img-center" src="..." alt="First slide">
+
+    <!-- SECTION TENDE -->
+    <section id="rololux2">
+        <div class="tende">
+            <header class="header-content">
+                <h1>Tende</h1>
+            </header>
+            <div class="row row-content">
+                <div class="slider2 col-sm-12 col-md-6 col-lg-6">
+                    <div id="crausel2" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner" role="listbox">
+                            <div class="box carousel-item active">
+                                <img src="/img/tende/pic1.jpg" class="img-center" src="..." alt="First slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/tende/pic2.jpg" class="img-center" src="..." alt="Second slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/tende/pic3.jpg" class="img-center" src="..." alt="Third slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/tende/pic4.jpg" class="img-center" src="..." alt="Second slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/tende/pic5.jpg" class="img-center" src="..." alt="Third slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/tende/pic6.jpg" class="img-center" src="..." alt="Second slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/tende/pic7.jpg" class="img-center" src="..." alt="Third slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/tende/pic8.jpg" class="img-center" src="..." alt="Second slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/tende/pic9.jpg" class="img-center" src="..." alt="Third slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/tende/pic10.jpg" class="img-center" src="..." alt="Second slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/tende/pic11.jpg" class="img-center" src="..." alt="Third slide">
+                            </div>
                         </div>
-                        <div class="box carousel-item">
-                            <img src="/img/tende/pic2.jpg" class="img-center" src="..." alt="Second slide">
-                        </div>
-                        <div class="box carousel-item">
-                            <img src="/img/tende/pic3.jpg" class="img-center" src="..." alt="Third slide">
-                        </div>
-                        <div class="box carousel-item">
-                            <img src="/img/tende/pic4.jpg" class="img-center" src="..." alt="Second slide">
-                        </div>
-                        <div class="box carousel-item">
-                            <img src="/img/tende/pic5.jpg" class="img-center" src="..." alt="Third slide">
-                        </div>
-                        <div class="box carousel-item">
-                            <img src="/img/tende/pic6.jpg" class="img-center" src="..." alt="Second slide">
-                        </div>
-                        <div class="box carousel-item">
-                            <img src="/img/tende/pic7.jpg" class="img-center" src="..." alt="Third slide">
-                        </div>
-                        <div class="box carousel-item">
-                            <img src="/img/tende/pic8.jpg" class="img-center" src="..." alt="Second slide">
-                        </div>
-                        <div class="box carousel-item">
-                            <img src="/img/tende/pic9.jpg" class="img-center" src="..." alt="Third slide">
-                        </div>
-                        <div class="box carousel-item">
-                            <img src="/img/tende/pic10.jpg" class="img-center" src="..." alt="Second slide">
-                        </div>
-                        <div class="box carousel-item">
-                            <img src="/img/tende/pic11.jpg" class="img-center" src="..." alt="Third slide">
-                        </div>
+                        <a class="carousel-control-prev" data-target="#crausel2" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" data-target="#crausel2" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
                     </div>
-                    <a class="carousel-control-prev" data-target="#crausel2" role="button" data-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="sr-only">Previous</span>
-                    </a>
-                    <a class="carousel-control-next" data-target="#crausel2" role="button" data-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="sr-only">Next</span>
-                    </a>
+                </div>
+                <div class="col-sm-12 col-md-6 col-lg-6">
+                    <article class="text-blok1">
+                        <p>Tende su potreba, ali i ukras vašeg doma ili poslovnog prostora. Čine zaštitu od<br> prejakog sunca ili svetla, a veličinom i oblikom se mogu prilagoditi svakom<br> zahtevu. Mi vam nudimo celokupan izbor tendi:</p>
+                        <ul>
+                            <li>Ravne</li>
+                            <li>Polukružne</li>
+                            <li>Kupolaste</li>
+                            <li>Samostojeće</li>
+                            <li>Fiksne</li>
+                            <li>Ra ručnim namotavanjem</li>
+                            <li>Sa električnim namotavanjem</li>
+                        </ul>
+                        <p>Cena zavisi od veličine, vrste i načina namotavanja, materijala, a:
+                        </p>
+                        <ul>
+                            <li>Kvalitet, sigurnost i izuzetan estetski utisak može se postići ugradnjom naših tendi</li>
+                            <li>Raznovrsnim izborom boja i dezena platna omogućićemo najprikladnije rešenje za vaš ambijent.</li>
+                            <li>Svi tipovi tendi podjednako dobro i kvalitetno štite, kako od sunca, tako i od kiše.</li>
+                        </ul>
+                        <p>Boravak na otvorenom čine lepšim i ugodnijim.</p>
+                    </article>
                 </div>
             </div>
-            <div class="col-sm-12 col-md-6 col-lg-6">
-                <article class="text-blok1">
-                    <p>Tende su potreba, ali i ukras vašeg doma ili poslovnog prostora. Čine zaštitu od<br> prejakog sunca ili svetla, a veličinom i oblikom se mogu prilagoditi svakom<br> zahtevu. Mi vam nudimo celokupan izbor tendi:</p>
-                    <ul>
-                        <li>Ravne</li>
-                        <li>Polukružne</li>
-                        <li>Kupolaste</li>
-                        <li>Samostojeće</li>
-                        <li>Fiksne</li>
-                        <li>Ra ručnim namotavanjem</li>
-                        <li>Sa električnim namotavanjem</li>
-                    </ul>
-                    <p>Cena zavisi od veličine, vrste i načina namotavanja, materijala, a:
-                    </p>
-                    <ul>
-                        <li>Kvalitet, sigurnost i izuzetan estetski utisak može se postići ugradnjom naših tendi</li>
-                        <li>Raznovrsnim izborom boja i dezena platna omogućićemo najprikladnije rešenje za vaš ambijent.</li>
-                        <li>Svi tipovi tendi podjednako dobro i kvalitetno štite, kako od sunca, tako i od kiše.</li>
-                    </ul>
-                    <p>Boravak na otvorenom čine lepšim i ugodnijim.</p>
-                </article>
+        </div>
+    </section>
+    <!--END SECTION TENDE -->
+
+    <!--SECTION VENECIJANERI -->
+    <section id="rololux1">
+        <div class="roletne">
+            <header class="header-content">
+                <h1>Roletne</h1>
+            </header>
+            <div class="row row-content">
+                <div class="col-sm-12 col-md-6 col-lg-6">
+                    <article class="text-block1">
+                        <p>Popularna venecijaner zavesa od legiranog aluminijuma se lako održava Odaberite boju i dezen koji se uklapa sa nameštajem i bojom zidova Venecijaneri se ugrađuju sa unutrašnje strane prozora uz samo staklo ali nepostoji mogućnost njegovog oštećenja.
+                        </p>
+                        <p>Drvena venecijaner zavesa stvara intimnu atmosferu i predstavlja ukras visoke estetetske vrednosti.
+                        </p>
+                        <P>Aluminijumski venecijaneri se izrađuju u velikom spektru boja i dezena. Kupac može da bira između tekstura mramora, granita, drveta i drugih prirodnih materijala. Posebno zanimljivu igru svetlosti i senke stvaraju venecijaneri sa perforiranom površinom.</P>
+                        <P>Trake venecijanera se pomeraju, tj. otvaraju i zatvaraju pomoću plastične palice Pomeranjem palice okrećemo trake i određujemo količinu svetlosti koju puštamo u prostoriju. Venecijaneri se mogu podizati i spuštati.</P>
+                        <P>Održavanje venecijanera je veoma lako i jednostavno Peru se identično kao i prozori.</P>
+                    </article>
+                </div>
+                <div class="slider1 col-sm-12 col-md-6 col-lg-6">
+                    <div id="crausel1" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner" role="listbox">
+                            <div class="box carousel-item active">
+                                <img src="/img/venecijaneri/venecijaneri1.jpg" class="img-center" src="..." alt="First slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/venecijaneri/venecijaneri2.jpg" class="img-center" src="..." alt="Second slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/venecijaneri/venecijaneri3.jpg" class="img-center" src="..." alt="Third slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/venecijaneri/venecijaneri4.jpg" class="img-center" src="..." alt="First slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/venecijaneri/venecijaneri5.jpg" class="img-center" src="..." alt="Second slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/venecijaneri/venecijaneri6.jpg" class="img-center" src="..." alt="Third slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/venecijaneri/venecijaneri7.jpg" class="img-center" src="..." alt="First slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/venecijaneri/venecijaneri8.jpg" class="img-center" src="..." alt="Second slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/venecijaneri/venecijaneri9.jpg" class="img-center" src="..." alt="Third slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/venecijaneri/venecijaneri10.jpg" class="img-center" src="..." alt="First slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/venecijaneri/venecijaneri11.jpg" class="img-center" src="..." alt="Second slide">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#crausel1" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#crausel1" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
+    <!--SECTION VENECIJANERI -->
 
     <!-- SECTION CONTACT -->
-<section id="rololux1">
-    <div class="roletne">
-        <div class="contact-map row row-content">
-            <section class="bg-contact col-sm-12 col-md-6 col-lg-6">
-                <adress class="contact-details">
-                    <h1>Kontakt</h1>
-                    <h2 class="phone">063/ 8-063-531 | 064/ 11-59-532</h2>
-                    <h2 class="fax">021/ 2466-467</h2>
-                    <h2 class="mail">rololuxns@yahoo.com | miklos@drupal.rs</h2>
-                    <h2 class="adress">Subotička 67 21 000 Novi Sad, Srbija</h2>
-                </adress>
-            </section>
-            <div class="map-box col-sm-12 col-md-6 col-lg-6">
-                <div class="map">
-                    <iframe class="google-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2809.31127914903!2d19.813731615168646!3d45.2414978790989!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475b102fbcfe803f%3A0xebe83980b39f34ad!2z0KHRg9Cx0L7RgtC40YfQutCwIDY3LCDQndC-0LLQuCDQodCw0LQgMjExMjQ!5e0!3m2!1ssr!2srs!4v1498654586909" frameborder="0" style="border:0" allowfullscreen></iframe>
+    <section id="rololux1">
+        <div class="roletne">
+            <div class="contact-map row row-content">
+                <section class="bg-contact col-sm-12 col-md-6 col-lg-6">
+                    <adress class="contact-details">
+                        <h1>Kontakt</h1>
+                        <h2 class="phone">063/ 8-063-531 | 064/ 11-59-532</h2>
+                        <h2 class="fax">021/ 2466-467</h2>
+                        <h2 class="mail">rololuxns@yahoo.com | miklos@drupal.rs</h2>
+                        <h2 class="adress">Subotička 67 21 000 Novi Sad, Srbija</h2>
+                    </adress>
+                </section>
+                <div class="map-box col-sm-12 col-md-6 col-lg-6">
+                    <div class="map">
+                        <iframe class="google-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2809.31127914903!2d19.813731615168646!3d45.2414978790989!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475b102fbcfe803f%3A0xebe83980b39f34ad!2z0KHRg9Cx0L7RgtC40YfQutCwIDY3LCDQndC-0LLQuCDQodCw0LQgMjExMjQ!5e0!3m2!1ssr!2srs!4v1498654586909" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
     <!-- SECTION CONTACT -->
 
     <footer class="footer">
