@@ -14,7 +14,6 @@
 <body>
 
 <!-- NAVIGATION -->
-
 <div class="container">
     <nav class="navbar fixed-top navbar-inverse navbar-toggleable-md">
         <div class="container">
@@ -30,15 +29,20 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#">O Nama</a>
                     </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <li class="nav-item">
+                        <a class="nav-link" href="http://example.com">
                             Proizvodi
                         </a>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item" href="#">Action</a>
-                            <a class="dropdown-item" href="#">Another action</a>
-                            <a class="dropdown-item" href="#">Something else here</a>
-                        </div>
+                        <ul class="submenu">
+                            <li><a href="#">Submenu a</a></li>
+                            <li><a href="#">Submenu b</a></li>
+                            <li><a href="#">Submenu c</a></li>
+                            <li><a href="#">Submenu d</a></li>
+                            <li><a href="#">Submenu e</a></li>
+                            <li><a href="#">Submenu f</a></li>
+                            <li><a href="#">Submenu g</a></li>
+                            <li><a href="#">Submenu h</a></li>
+                        </ul>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Kontakt</a>
