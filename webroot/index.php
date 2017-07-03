@@ -16,7 +16,7 @@
 <!-- NAVIGATION -->
 
 <div class="container">
-    <nav class="navbar navbar-inverse  navbar-toggleable-md">
+    <nav class="navbar fixed-top navbar-inverse navbar-toggleable-md">
         <div class="container">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarmain" aria-controls="navbarsExampleContainer" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
