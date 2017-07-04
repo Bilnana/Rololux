@@ -385,6 +385,9 @@
                     <li><span class="email"><i class="fa fa-envelope" aria-hidden="true"></i></span>miklos@drupal.rs</li>
                 </ul>
             </div>
+            <div class="author col-sm-12">
+                <p>&copy; Mare & Bilja</p>
+            </div>
         </div>
     </footer>
 </div>
