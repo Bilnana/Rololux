@@ -1,8 +1,8 @@
-#Rololux
+# Rololux
 
 Redesign of Rololux website for Miklos founder of Rololux NS company
 
-##Getting Started
+## Getting Started
 
 When you download this project you'll have to do next steps:
 - add your /etc/hosts 127.0.0.1 "domain" on Linux
