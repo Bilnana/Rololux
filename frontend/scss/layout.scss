@@ -1,46 +1,4 @@
 /******************* HEADER *******************/
-.navbar{
-     background: url(/img/navpic.jpg);
-     //height: 60px;
- }
-.navbar li{
-   padding-left: 30px;
-}
-
-.navbar  a{
-    color:$white;
-    font-family:'Big-John';
-    font-size: 18px;
-    transition: all 0.3s ease 0s;
-}
-.navbar  a:hover{
-    color:$white;
-    font-family:'Big-John';
-    font-size: 18px;
-    transform: scale(1.1);
-}
-
-    /*logo*/
-.navbar .rolo{
-    font-family:'Big-John';
-    font-size: 35px;
-    color: #800000;
-}
-.navbar .lux{
-    font-family:'Slim-Joe';
-    font-size: 35px;
-    color: $white;
-}
-.navbar .ns{
-    font-family:'Slim-Joe';
-    font-size: 35px;
-    color: $white;
-}
-.dropdown-menu{
-    background: url(/img/navpic.jpg);
-    color: $white;
-}
-
     /*slider*/
 .mainhead .carousel-inner  .box {
     padding-left: 0px;

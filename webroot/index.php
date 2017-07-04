@@ -14,9 +14,8 @@
 <body>
 
 <!-- NAVIGATION -->
-
 <div class="container">
-    <nav class="navbar navbar-inverse  navbar-toggleable-md">
+    <nav class="navbar fixed-top navbar-inverse navbar-toggleable-md">
         <div class="container">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarmain" aria-controls="navbarsExampleContainer" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -28,20 +27,26 @@
                         <a class="nav-link" href="#">Pocetna<span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">O Nama</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Proizvodi
-                        </a>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item" href="#">Action</a>
-                            <a class="dropdown-item" href="#">Another action</a>
-                            <a class="dropdown-item" href="#">Something else here</a>
-                        </div>
+                        <a class="nav-link" href="#o-nama">O Nama</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Kontakt</a>
+                        <a class="nav-link" href="http://example.com">
+                            Proizvodi
+                        </a>
+                        <ul class="submenu">
+                            <li><a href="#rololux1">Roletne</a></li>
+                            <li><a href="#rololux2">Tende</a></li>
+                            <li><a href="#rololux3">Venecijaneri</a></li>
+                            <li><a href="#">Rolo zavese</a></li>
+                            <li><a href="#">Trakaste zavese</a></li>
+                            <li><a href="#">Komarnici</a></li>
+                            <li><a href="#">Dihtovanje</a></li>
+                            <li><a href="#servisiranje">Servis</a></li>
+                            <li><a href="#">Adaptacija prostora</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#kontakt">Kontakt</a>
                     </li>
                 </ul>
             </div>
@@ -248,7 +253,7 @@
     <!--END SECTION TENDE -->
 
     <!--SECTION VENECIJANERI -->
-    <section id="rololux1">
+    <section id="rololux3">
         <div class="venecijaneri">
             <header class="header-content">
                 <h1>Venecijaneri</h1>
@@ -265,7 +270,7 @@
                         <P>Održavanje venecijanera je veoma lako i jednostavno Peru se identično kao i prozori.</P>
                     </article>
                 </div>
-                <div class="slider2Gigi col-sm-12 col-md-6 col-lg-6">
+                <div class="slider2 col-sm-12 col-md-6 col-lg-6">
                     <div id="crausel1" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner" role="listbox">
                             <div class="box carousel-item active">
@@ -335,7 +340,7 @@
     <!-- SECTION SERVISIRANJE END -->
 
     <!-- SECTION CONTACT -->
-    <section id="rololux1">
+    <section id="kontakt">
         <div class="roletne">
             <div class="contact-map row row-content">
                 <section class="bg-contact col-sm-12 col-md-6 col-lg-6">

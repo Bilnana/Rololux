@@ -1,5 +1,6 @@
 body{
   background: url(/img/bodyBG.jpg);
+  padding-top: 75px;
 }
 .row-content{
   padding-left: 3%;
@@ -9,3 +10,4 @@ body{
 @import "bootstrap";
 @import "layout";
 @import "fonts";
+@import "navbar";
