@@ -386,7 +386,7 @@
                 </ul>
             </div>
             <div class="author col-sm-12">
-                <p>&copy; Mare & Bilja</p>
+                <p>&copy; Mare & Bilja 2017</p>
             </div>
         </div>
     </footer>
