@@ -30,12 +30,16 @@
   list-style: none;
 }
 
-.navbar-nav a {
+.navbar a {
   color:$white;
   font-family:'Amble-Bold';
   font-size: 22px;
   transition: all 0.3s ease 0s;
 }
+.navbar  a:hover{
+  transform: scale(1.1);
+}
+
 
 .navbar-nav .submenu a {
   color: $gray-lighter;
