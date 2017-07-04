@@ -15,6 +15,7 @@
 
 <!-- NAVIGATION -->
 <div class="container">
+
     <nav class="navbar fixed-top navbar-inverse navbar-toggleable-md">
         <div class="container">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarmain" aria-controls="navbarsExampleContainer" aria-expanded="false" aria-label="Toggle navigation">
@@ -346,9 +347,11 @@
                 <section class="bg-contact col-sm-12 col-md-6 col-lg-6">
                     <adress class="contact-details">
                         <h1>Kontakt</h1>
-                        <h2 class="phone">063/ 8-063-531 | 064/ 11-59-532</h2>
+                        <h2 class="phone">063/ 8-063-531</h2>
+                        <h2>064/ 11-59-532</h2>
                         <h2 class="fax">021/ 2466-467</h2>
-                        <h2 class="mail">rololuxns@yahoo.com | miklos@drupal.rs</h2>
+                        <h2 class="mail">rololuxns@yahoo.com</h2>
+                        <h2>miklos@drupal.rs</h2>
                         <h2 class="adress">Subotička 67 21 000 Novi Sad, Srbija</h2>
                     </adress>
                 </section>
