@@ -340,7 +340,25 @@
     </section>
     <!-- SECTION SERVISIRANJE END -->
 
-    <!-- SECTION CONTACT -->
+    <!-- SECTION ADAPTACIJA PROSTORA -->
+
+    <section id="adaptacija">
+        <div class="o-nama-box">
+            <header class="header-content">
+                <h1>Adaptacija prostora</h1>
+            </header>
+            <div class="row row-content">
+                <div class="col-sm-12>
+                    <article class="text-block-o-nama">
+                        <p>Vršimo sve vrste popravki i održavanja cele palete naših proizvoda. Za sve informacije, osećajte se slobodnim da nam se obratite na neke od naših brojeva telefona. </p>
+                </article>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION ADAPTACIJA PROSTORA END -->
+
     <section id="kontakt">
         <div class="roletne">
             <div class="contact-map row row-content">
