@@ -8,6 +8,7 @@
     <meta name="Biljana Ljubojevic" content="Task">
     <!-- CSS file -->
     <link rel="stylesheet" href="/css/styles.css" type="text/css">
+    <link rel="stylesheet" href="/css/lightbox.css" type="text/css">
     <link rel="stylesheet" href="/css/font-awesome.css" type="text/css">
 </head>
 
@@ -340,7 +341,27 @@
     </section>
     <!-- SECTION SERVISIRANJE END -->
 
-    <!-- SECTION CONTACT -->
+    <!-- SECTION ADAPTACIJA PROSTORA -->
+
+    <section id="adaptacija">
+        <div class="o-nama-box">
+            <header class="header-content">
+                <h1>Adaptacija prostora</h1>
+            </header>
+            <div class="row row-content">
+                <div class="col-sm-12">
+                    <div class="galerija">
+                        <div class="slike"><a href="img/adaptacija/adaptacija1.jpg" data-lightbox="agencija"><img src="img/adaptacija/adaptacija1.jpg" alt="projekti"></a></div>
+                        <div class="slike"><a href="img/adaptacija/adaptacija2.jpg" data-lightbox="agencija"><img src="img/adaptacija/adaptacija2.jpg" alt="projekti"></a></div>
+                        <div class="slike"><a href="img/adaptacija/adaptacija3.jpg" data-lightbox="agencija"><img src="img/adaptacija/adaptacija1.jpg" alt="projekti"></a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION ADAPTACIJA PROSTORA END -->
+
     <section id="kontakt">
         <div class="roletne">
             <div class="contact-map row row-content">
@@ -398,5 +419,6 @@
 <script src="/js/jquery.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/local-javascript.js"></script>
+<script src="/js/lightbox.js"></script>
 </body>
 </html>
