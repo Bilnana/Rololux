@@ -8,6 +8,7 @@
     <meta name="Biljana Ljubojevic" content="Task">
     <!-- CSS file -->
     <link rel="stylesheet" href="/css/styles.css" type="text/css">
+    <link rel="stylesheet" href="/css/lightbox.css" type="text/css">
     <link rel="stylesheet" href="/css/font-awesome.css" type="text/css">
 </head>
 
@@ -348,8 +349,8 @@
                 <h1>Adaptacija prostora</h1>
             </header>
             <div class="row row-content">
-                <div class="col-sm-12>
-                    <div id="galerija">
+                <div class="col-sm-12">
+                    <div class="galerija">
                         <h1>Galerija</h1>
                         <div class="slike"><a href="img/adaptacija/adaptacija1.jpg" data-lightbox="agencija"><img src="img/adaptacija/adaptacija1.jpg" alt="projekti"></a></div>
                         <div class="slike"><a href="img/adaptacija/adaptacija2.jpg" data-lightbox="agencija"><img src="img/adaptacija/adaptacija2.jpg" alt="projekti"></a></div>
