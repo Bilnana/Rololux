@@ -349,9 +349,12 @@
             </header>
             <div class="row row-content">
                 <div class="col-sm-12>
-                    <article class="text-block-o-nama">
-                        <p>Vršimo sve vrste popravki i održavanja cele palete naših proizvoda. Za sve informacije, osećajte se slobodnim da nam se obratite na neke od naših brojeva telefona. </p>
-                </article>
+                    <div id="galerija">
+                        <h1>Galerija</h1>
+                        <div class="slike"><a href="img/adaptacija/adaptacija1.jpg" data-lightbox="agencija"><img src="img/adaptacija/adaptacija1.jpg" alt="projekti"></a></div>
+                        <div class="slike"><a href="img/adaptacija/adaptacija2.jpg" data-lightbox="agencija"><img src="img/adaptacija/adaptacija2.jpg" alt="projekti"></a></div>
+                        <div class="slike"><a href="img/adaptacija/adaptacija3.jpg" data-lightbox="agencija"><img src="img/adaptacija/adaptacija1.jpg" alt="projekti"></a></div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -416,5 +419,6 @@
 <script src="/js/jquery.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/local-javascript.js"></script>
+<script src="/js/lightbox.js"></script>
 </body>
 </html>
