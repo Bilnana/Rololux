@@ -351,7 +351,6 @@
             <div class="row row-content">
                 <div class="col-sm-12">
                     <div class="galerija">
-                        <h1>Galerija</h1>
                         <div class="slike"><a href="img/adaptacija/adaptacija1.jpg" data-lightbox="agencija"><img src="img/adaptacija/adaptacija1.jpg" alt="projekti"></a></div>
                         <div class="slike"><a href="img/adaptacija/adaptacija2.jpg" data-lightbox="agencija"><img src="img/adaptacija/adaptacija2.jpg" alt="projekti"></a></div>
                         <div class="slike"><a href="img/adaptacija/adaptacija3.jpg" data-lightbox="agencija"><img src="img/adaptacija/adaptacija1.jpg" alt="projekti"></a></div>
