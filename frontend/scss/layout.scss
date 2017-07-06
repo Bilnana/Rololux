@@ -246,6 +246,48 @@
 
 /*************SECTION ROLO ZAVESE****************/
 
+/*************SECTION TRAKASTE ZAVESE ****************/
+
+.trakaste{
+  padding-top: 20px;
+  background-color:#d9d9d9;
+  font-family:'Amble-Regular';
+  font-size: 16px;
+  padding-bottom: 12%;
+}
+trakaste .header-content{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+  font-family:'Amble-Bold';
+}
+.trakaste .slider2 .carousel-inner  .box {
+  padding-left: 0px;
+  padding-right: 0px;
+  width:100%;
+  height: 300px;
+}
+
+.trakaste .slider2{
+  padding-top:3%;
+}
+
+.trakaste .slider2 .carousel-inner .box img {
+  width:100%;
+  height:100%;
+
+}
+.trakaste .slider2 .carousel-inner .carousel-caption{
+  display: block;
+  color: $white;
+}
+
+.trakaste .text-block1{
+  text-align:justify;
+  margin-top: 15%;
+}
+/*************SECTION TRAKASTE ZAVESE ****************/
+
 /*************SECTION ADAPTACIJA***************/
 
 .galerija{
