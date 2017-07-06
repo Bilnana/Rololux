@@ -402,6 +402,67 @@
         </div>
     </section>
     <!--SECTION ROLO ZAVESE -->
+
+    <!-- SECTION DIHTOVANJE -->
+    <section id="rololux2">
+        <div class="tende">
+            <header class="header-content">
+                <h1>Dihtovanje</h1>
+            </header>
+            <div class="row row-content">
+                <div class="slider2 col-sm-12 col-md-6 col-lg-6">
+                    <div id="crausel2" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner" role="listbox">
+                            <div class="box carousel-item active">
+                                <img src="/img/dihtovanje/dihtovanje1.jpg" class="img-center" src="..." alt="First slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/dihtovanje/dihtovanje2.jpg" class="img-center" src="..." alt="Second slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/dihtovanje/dihtovanje3.jpg" class="img-center" src="..." alt="Third slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/dihtovanje/dihtovanje4.jpg" class="img-center" src="..." alt="Second slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/dihtovanje/dihtovanje5.jpg" class="img-center" src="..." alt="Third slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/dihtovanje/dihtovanje6.jpg" class="img-center" src="..." alt="Second slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/dihtovanje/dihtovanje7.jpg" class="img-center" src="..." alt="Third slide">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" data-target="#crausel2" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" data-target="#crausel2" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-6 col-lg-6">
+                    <article class="text-blok1">
+                        <p>Dihtovanje prozora i vrata aluminijumskim lajsnama</p>
+                        <ul>
+                            <li>95% zaštita od vetra</li>
+                            <li>80% zaštite od buke i prašine</li>
+                            <li>30% uštede energije</li>
+                            <li>do 6 stupnjeva C povećana temperatura</li>
+                            <li>trajna garancija</li>
+                            <li>uštedite svoj novac stedeći energiju</li>
+                        </ul>
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- SECTION DIHTOVANJE END -->
+
     <!-- SECTION SERVISIRANJE -->
     <section id="servisiranje">
         <div class="o-nama-box">
