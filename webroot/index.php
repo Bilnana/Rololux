@@ -360,13 +360,13 @@
                 <div class="carousel-inner col-sm-12">
                     <div class="carousel-item active">
                         <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese1.jpg" class="img-fluid"></a>
+                            <a href="#x"><img src="/img/rolozavese/rolozavese1.jpg" class="img-fluid" alt="rolo zavese1"></a>
                         </div>
                         <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese2.jpg" class="img-fluid"></a>
+                            <a href="#x"><img src="/img/rolozavese/rolozavese2.jpg" class="img-fluid" alt="rolo zavese2"></a>
                         </div>
                         <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese3.jpg" class="img-fluid"></a>
+                            <a href="#x"><img src="/img/rolozavese/rolozavese3.jpg" class="img-fluid" alt="rolo zavese3"></a>
                         </div>
                     </div>
                     <!--/item-->
