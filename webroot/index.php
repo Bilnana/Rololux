@@ -470,13 +470,13 @@
 
     <!-- SECTION DIHTOVANJE -->
     <section id="rololux2">
-        <div class="tende">
+        <div class="roletne">
             <header class="header-content">
                 <h1>Dihtovanje</h1>
             </header>
             <div class="row row-content">
                 <div class="slider2 col-sm-12 col-md-6 col-lg-6">
-                    <div id="crausel2" class="carousel slide" data-ride="carousel">
+                    <div id="crausel7" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner" role="listbox">
                             <div class="box carousel-item active">
                                 <img src="/img/dihtovanje/dihtovanje1.jpg" class="img-center" src="..." alt="First slide">
@@ -500,11 +500,11 @@
                                 <img src="/img/dihtovanje/dihtovanje7.jpg" class="img-center" src="..." alt="Third slide">
                             </div>
                         </div>
-                        <a class="carousel-control-prev" data-target="#crausel2" role="button" data-slide="prev">
+                        <a class="carousel-control-prev" data-target="#crausel7" role="button" data-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                             <span class="sr-only">Previous</span>
                         </a>
-                        <a class="carousel-control-next" data-target="#crausel2" role="button" data-slide="next">
+                        <a class="carousel-control-next" data-target="#crausel7" role="button" data-slide="next">
                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                             <span class="sr-only">Next</span>
                         </a>
