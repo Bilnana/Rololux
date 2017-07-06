@@ -407,18 +407,12 @@
      <section id="rololux5">
         <div class="trakaste">
             <header class="header-content">
-                <h1>Venecijaneri</h1>
+                <h1>Trakaste zavese</h1>
             </header>
             <div class="row row-content">
                 <div class="col-sm-12 col-md-6 col-lg-6">
                     <article class="text-block1">
-                        <p>Popularna venecijaner zavesa od legiranog aluminijuma se lako održava Odaberite boju i dezen koji se uklapa sa nameštajem i bojom zidova Venecijaneri se ugrađuju sa unutrašnje strane prozora uz samo staklo ali nepostoji mogućnost njegovog oštećenja.
-                        </p>
-                        <p>Drvena venecijaner zavesa stvara intimnu atmosferu i predstavlja ukras visoke estetetske vrednosti.
-                        </p>
-                        <P>Aluminijumski venecijaneri se izrađuju u velikom spektru boja i dezena. Kupac može da bira između tekstura mramora, granita, drveta i drugih prirodnih materijala. Posebno zanimljivu igru svetlosti i senke stvaraju venecijaneri sa perforiranom površinom.</P>
-                        <P>Trake venecijanera se pomeraju, tj. otvaraju i zatvaraju pomoću plastične palice Pomeranjem palice okrećemo trake i određujemo količinu svetlosti koju puštamo u prostoriju. Venecijaneri se mogu podizati i spuštati.</P>
-                        <P>Održavanje venecijanera je veoma lako i jednostavno Peru se identično kao i prozori.</P>
+                        <p>Nudimo vam svoj proizvodni program trakastih zavesa koje su se pokazale kao vrlo praktično sredstvo za zaštitu od sunca i neželjenih pogleda, a u isto vreme Vaš prostor dobija novu estetsku dimenziju. Izrađene su od impregniranog platna u širokoj paleti boja, lako se održavaju, a mogu se zaokretati za 180 stepeni. Skrivaju od pogleda znatiželjnih lica i kod laganog zaokreta, a kada se potpuno zaokrenu, u Vaš prostor jos uvek dolazi dovoljno svetla.</p>
                     </article>
                 </div>
                 <div class="slider2 col-sm-12 col-md-6 col-lg-6">
