@@ -419,37 +419,37 @@
                     <div id="crausel5" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner" role="listbox">
                             <div class="box carousel-item active">
-                                <img src="/img/trakastezavese/trakastezavese1.jpg" class="img-center" src="..." alt="First slide">
+                                <img src="/img/trakastezavese/trakastezavese1.jpg" class="img-center" src="..." alt="First slide" alt="trakaste zavese1">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/trakastezavese/trakastezavese2.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/trakastezavese/trakastezavese2.jpg" class="img-center" src="..." alt="Second slide" alt="trakaste zavese2">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/trakastezavese/trakastezavese3.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/trakastezavese/trakastezavese3.jpg" class="img-center" src="..." alt="Third slide" alt="trakaste zavese3">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/trakastezavese/trakastezavese4.jpg" class="img-center" src="..." alt="First slide">
+                                <img src="/img/trakastezavese/trakastezavese4.jpg" class="img-center" src="..." alt="First slide" alt="trakaste zavese4">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/trakastezavese/trakastezavese5.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/trakastezavese/trakastezavese5.jpg" class="img-center" src="..." alt="Second slide" alt="trakaste zavese5">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/trakastezavese/trakastezavese6.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/trakastezavese/trakastezavese6.jpg" class="img-center" src="..." alt="Third slide" alt="trakaste zavese6">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/trakastezavese/trakastezavese7.jpg" class="img-center" src="..." alt="First slide">
+                                <img src="/img/trakastezavese/trakastezavese7.jpg" class="img-center" src="..." alt="First slide" alt="trakaste zavese7">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/trakastezavese/trakastezavese8.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/trakastezavese/trakastezavese8.jpg" class="img-center" src="..." alt="Second slide" alt="trakaste zavese8">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/trakastezavese/trakastezavese9.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/trakastezavese/trakastezavese9.jpg" class="img-center" src="..." alt="Third slide" alt="trakaste zavese9">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/trakastezavese/trakastezavese10.jpg" class="img-center" src="..." alt="First slide">
+                                <img src="/img/trakastezavese/trakastezavese10.jpg" class="img-center" src="..." alt="First slide" alt="trakaste zavese10">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/trakastezavese/trakastezavese11.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/trakastezavese/trakastezavese11.jpg" class="img-center" src="..." alt="Second slide" alt="trakaste zavese11">
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#crausel3" role="button" data-slide="prev">
