@@ -294,37 +294,37 @@
                     <div id="crausel3" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner" role="listbox">
                             <div class="box carousel-item active">
-                                <img src="/img/venecijaneri/venecijaneri1.jpg" class="img-center" src="..." alt="First slide">
+                                <img src="/img/venecijaneri/venecijaneri1.jpg" class="img-center" src="..." alt="First slide" alt="venecijaneri1">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/venecijaneri/venecijaneri2.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/venecijaneri/venecijaneri2.jpg" class="img-center" src="..." alt="Second slide" alt="venecijaneri2">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/venecijaneri/venecijaneri3.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/venecijaneri/venecijaneri3.jpg" class="img-center" src="..." alt="Third slide" alt="venecijaneri3">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/venecijaneri/venecijaneri4.jpg" class="img-center" src="..." alt="First slide">
+                                <img src="/img/venecijaneri/venecijaneri4.jpg" class="img-center" src="..." alt="First slide" alt="venecijaneri4">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/venecijaneri/venecijaneri5.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/venecijaneri/venecijaneri5.jpg" class="img-center" src="..." alt="Second slide" alt="venecijaneri5">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/venecijaneri/venecijaneri6.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/venecijaneri/venecijaneri6.jpg" class="img-center" src="..." alt="Third slide" alt="venecijaneri6">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/venecijaneri/venecijaneri7.jpg" class="img-center" src="..." alt="First slide">
+                                <img src="/img/venecijaneri/venecijaneri7.jpg" class="img-center" src="..." alt="First slide" alt="venecijaneri7">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/venecijaneri/venecijaneri8.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/venecijaneri/venecijaneri8.jpg" class="img-center" src="..." alt="Second slide" alt="venecijaneri8">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/venecijaneri/venecijaneri9.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/venecijaneri/venecijaneri9.jpg" class="img-center" src="..." alt="Third slide" alt="venecijaneri9">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/venecijaneri/venecijaneri10.jpg" class="img-center" src="..." alt="First slide">
+                                <img src="/img/venecijaneri/venecijaneri10.jpg" class="img-center" src="..." alt="First slide" alt="venecijaneri10">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/venecijaneri/venecijaneri11.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/venecijaneri/venecijaneri11.jpg" class="img-center" src="..." alt="Second slide" alt="venecijaneri11">
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#crausel3" role="button" data-slide="prev">
