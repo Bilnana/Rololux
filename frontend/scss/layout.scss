@@ -47,7 +47,7 @@
 
 /*************SECTION ROLETNE*****************/
 .roletne{
-    padding-top: 20px;
+    padding: 20px 0 50px 0;
     background-color:#d9d9d9;
     font-family:'Amble-Regular';
     font-size: 16px;
@@ -59,6 +59,11 @@
     text-align: center;
     font-family:'Amble-Bold';
 }
+
+.header-content h1{
+  padding: 20px;
+}
+
 .slider1 .carousel-inner  .box {
     padding-left: 0px;
     padding-right: 0px;
@@ -80,7 +85,6 @@
 
 .roletne .text-blok1{
     height:100%;
-    padding-top: 20%;
     text-align:justify;
 }
 .roletne .text-blok2{
