@@ -16,9 +16,7 @@
 
 <!-- NAVIGATION -->
 <div class="container">
-
-    <nav class="navbar fixed-top navbar-inverse navbar-toggleable-md">
-        <div class="container">
+    <nav class="navbar sticky-top navbar-inverse navbar-toggleable-md container">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarmain" aria-controls="navbarsExampleContainer" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -40,7 +38,7 @@
                             <li><a href="#rololux2">Tende</a></li>
                             <li><a href="#rololux3">Venecijaneri</a></li>
                             <li><a href="#rololux4">Rolo zavese</a></li>
-                            <li><a href="#">Trakaste zavese</a></li>
+                            <li><a href="#rololux5">Trakaste zavese</a></li>
                             <li><a href="#">Komarnici</a></li>
                             <li><a href="#">Dihtovanje</a></li>
                             <li><a href="#servisiranje">Servis</a></li>
@@ -52,7 +50,6 @@
                     </li>
                 </ul>
             </div>
-        </div>
     </nav>
 
     <!-- NAVIGATION END -->
