@@ -24,13 +24,13 @@
             <div class="collapse navbar-collapse justify-content-end" id="navbarmain">
                 <ul class="navbar-nav">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Pocetna<span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="#">Početna<span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#o-nama">O Nama</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="http://example.com">
+                        <a class="nav-link">
                             Proizvodi
                         </a>
                         <ul class="submenu">
@@ -39,10 +39,10 @@
                             <li><a href="#rololux3">Venecijaneri</a></li>
                             <li><a href="#rololux4">Rolo zavese</a></li>
                             <li><a href="#rololux5">Trakaste zavese</a></li>
-                            <li><a href="#">Komarnici</a></li>
-                            <li><a href="#">Dihtovanje</a></li>
-                            <li><a href="#servisiranje">Servis</a></li>
-                            <li><a href="#">Adaptacija prostora</a></li>
+                            <li><a href="#rololux6">Komarnici</a></li>
+                            <li><a href="#rololux7">Dihtovanje</a></li>
+                            <li><a href="#rololux8">Servis</a></li>
+                            <li><a href="#rololux9">Adaptacija prostora</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
@@ -465,7 +465,7 @@
     <!--SECTION VENECIJANERI -->
 
     <!-- SECTION SERVISIRANJE -->
-    <section id="servisiranje">
+    <section id="rololux8">
         <div class="o-nama-box">
             <header class="header-content">
                 <h1>Servisiranje</h1>
@@ -483,7 +483,7 @@
 
     <!-- SECTION ADAPTACIJA PROSTORA -->
 
-    <section id="adaptacija">
+    <section id="rololux9">
         <div class="o-nama-box">
             <header class="header-content">
                 <h1>Adaptacija prostora</h1>
