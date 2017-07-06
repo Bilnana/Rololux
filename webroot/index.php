@@ -402,6 +402,71 @@
         </div>
     </section>
     <!--SECTION ROLO ZAVESE -->
+
+    <!--SECTION trakaste ZAVESE -->
+     <section id="rololux5">
+        <div class="trakaste">
+            <header class="header-content">
+                <h1>Trakaste zavese</h1>
+            </header>
+            <div class="row row-content">
+                <div class="col-sm-12 col-md-6 col-lg-6">
+                    <article class="text-block1">
+                        <p>Nudimo vam svoj proizvodni program trakastih zavesa koje su se pokazale kao vrlo praktično sredstvo za zaštitu od sunca i neželjenih pogleda, a u isto vreme Vaš prostor dobija novu estetsku dimenziju. Izrađene su od impregniranog platna u širokoj paleti boja, lako se održavaju, a mogu se zaokretati za 180 stepeni. Skrivaju od pogleda znatiželjnih lica i kod laganog zaokreta, a kada se potpuno zaokrenu, u Vaš prostor jos uvek dolazi dovoljno svetla.</p>
+                    </article>
+                </div>
+                <div class="slider2 col-sm-12 col-md-6 col-lg-6">
+                    <div id="crausel5" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner" role="listbox">
+                            <div class="box carousel-item active">
+                                <img src="/img/trakastezavese/trakastezavese1.jpg" class="img-center" src="..." alt="First slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/trakastezavese/trakastezavese2.jpg" class="img-center" src="..." alt="Second slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/trakastezavese/trakastezavese3.jpg" class="img-center" src="..." alt="Third slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/trakastezavese/trakastezavese4.jpg" class="img-center" src="..." alt="First slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/trakastezavese/trakastezavese5.jpg" class="img-center" src="..." alt="Second slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/trakastezavese/trakastezavese6.jpg" class="img-center" src="..." alt="Third slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/trakastezavese/trakastezavese7.jpg" class="img-center" src="..." alt="First slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/trakastezavese/trakastezavese8.jpg" class="img-center" src="..." alt="Second slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/trakastezavese/trakastezavese9.jpg" class="img-center" src="..." alt="Third slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/trakastezavese/trakastezavese10.jpg" class="img-center" src="..." alt="First slide">
+                            </div>
+                            <div class="box carousel-item">
+                                <img src="/img/trakastezavese/trakastezavese11.jpg" class="img-center" src="..." alt="Second slide">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#crausel3" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#crausel3" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--SECTION VENECIJANERI -->
+
     <!-- SECTION SERVISIRANJE -->
     <section id="servisiranje">
         <div class="o-nama-box">
