@@ -479,25 +479,25 @@
                     <div id="crausel7" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner" role="listbox">
                             <div class="box carousel-item active">
-                                <img src="/img/dihtovanje/dihtovanje1.jpg" class="img-center" src="..." alt="First slide">
+                                <img src="/img/dihtovanje/dihtovanje1.jpg" class="img-center" src="..." alt="First slide" alt="dihtovanje1">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/dihtovanje/dihtovanje2.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/dihtovanje/dihtovanje2.jpg" class="img-center" src="..." alt="Second slide" alt="dihtovanje2">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/dihtovanje/dihtovanje3.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/dihtovanje/dihtovanje3.jpg" class="img-center" src="..." alt="Third slide" alt="dihtovanje3">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/dihtovanje/dihtovanje4.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/dihtovanje/dihtovanje4.jpg" class="img-center" src="..." alt="Second slide" alt="dihtovanje4">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/dihtovanje/dihtovanje5.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/dihtovanje/dihtovanje5.jpg" class="img-center" src="..." alt="Third slide" alt="dihtovanje5">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/dihtovanje/dihtovanje6.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/dihtovanje/dihtovanje6.jpg" class="img-center" src="..." alt="Second slide" alt="dihtovanje6">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/dihtovanje/dihtovanje7.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/dihtovanje/dihtovanje7.jpg" class="img-center" src="..." alt="Third slide" alt="dihtovanje7">
                             </div>
                         </div>
                         <a class="carousel-control-prev" data-target="#crausel7" role="button" data-slide="prev">
