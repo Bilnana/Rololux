@@ -24,7 +24,7 @@
             <div class="collapse navbar-collapse justify-content-end" id="navbarmain">
                 <ul class="navbar-nav">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Početna<span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="#">Početna</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#o-nama">O Nama</a>
@@ -449,11 +449,11 @@
                                 <img src="/img/trakastezavese/trakastezavese11.jpg" class="img-center" src="..." alt="Second slide">
                             </div>
                         </div>
-                        <a class="carousel-control-prev" href="#crausel3" role="button" data-slide="prev">
+                        <a class="carousel-control-prev" href="#crausel5" role="button" data-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                             <span class="sr-only">Previous</span>
                         </a>
-                        <a class="carousel-control-next" href="#crausel3" role="button" data-slide="next">
+                        <a class="carousel-control-next" href="#crausel5" role="button" data-slide="next">
                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                             <span class="sr-only">Next</span>
                         </a>
