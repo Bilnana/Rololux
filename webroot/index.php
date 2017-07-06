@@ -372,25 +372,25 @@
                     <!--/item-->
                     <div class="carousel-item">
                         <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese4.jpg" class="img-fluid"></a>
+                            <a href="#x"><img src="/img/rolozavese/rolozavese4.jpg" class="img-fluid" alt="rolo zavese4"></a>
                         </div>
                         <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese5.jpg" class="img-fluid"></a>
+                            <a href="#x"><img src="/img/rolozavese/rolozavese5.jpg" class="img-fluid" alt="rolo zavese5"></a>
                         </div>
                         <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese6.jpg" class="img-fluid"></a>
+                            <a href="#x"><img src="/img/rolozavese/rolozavese6.jpg" class="img-fluid" alt="rolo zavese6"></a>
                         </div>
                     </div>
                     <!--/item-->
                     <div class="carousel-item">
                         <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese7.jpg" class="img-fluid"></a>
+                            <a href="#x"><img src="/img/rolozavese/rolozavese7.jpg" class="img-fluid" alt="rolo zavese7"></a>
                         </div>
                         <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese8.jpg" class="img-fluid"></a>
+                            <a href="#x"><img src="/img/rolozavese/rolozavese8.jpg" class="img-fluid" alt="rolo zavese8"></a>
                         </div>
                         <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese9.jpg" class="img-fluid"></a>
+                            <a href="#x"><img src="/img/rolozavese/rolozavese9.jpg" class="img-fluid" alt="rolo zavese9"></a>
                         </div>
                     </div>
                     <!--/item-->
