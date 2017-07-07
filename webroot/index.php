@@ -466,8 +466,8 @@
 
 
     <!-- SECTION DIHTOVANJE -->
-    <section id="rololux2">
-        <div class="roletne">
+    <section id="rololux7">
+        <div class="dihtovanje">
             <header class="header-content">
                 <h1>Dihtovanje</h1>
             </header>
