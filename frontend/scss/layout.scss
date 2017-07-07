@@ -294,6 +294,49 @@ trakaste .header-content{
 }
 /*************SECTION TRAKASTE ZAVESE ****************/
 
+/*************SECTION DIHTOVANJE*****************/
+.dihtovanje{
+  padding-top: 20px;
+  background-color:#d9d9d9;
+  font-family:'Amble-Regular';
+  font-size: 16px;
+  padding-bottom: 6%;
+}
+.dihtovanje .header-content{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+  font-family:'Amble-Bold';
+}
+.dihtovanje .slider2 .carousel-inner  .box {
+  padding-left: 0px;
+  padding-right: 0px;
+  width:100%;
+  height: 300px;
+}
+
+.dihtovanje .slider2{
+  padding-top:3%;
+}
+
+.dihtovanje .slider2 .carousel-inner .box img {
+  width:100%;
+  height:100%;
+
+}
+.dihtovanje .slider2 .carousel-inner .carousel-caption{
+  display: block;
+  color: $white;
+}
+
+.dihtovanje .text-blok1{
+  height:100%;
+  text-align:justify;
+  padding-top: 8%;
+}
+
+/*************SECTION VENECIJANERI ****************/
+
 /*************SECTION ADAPTACIJA***************/
 
 .galerija{
