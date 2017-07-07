@@ -462,8 +462,26 @@
             </div>
         </div>
     </section>
-    <!--SECTION VENECIJANERI -->
+    <!-- SECTION trakaste ZAVESE END -->
 
+    <!-- SECTION KOMARNICI -->
+    <section id="rololux6">
+        <div class="o-nama-box">
+            <header class="header-content">
+                <h1>Komarnici</h1>
+            </header>
+            <div class="row row-content">
+                <div class="col-sm-12">
+                    <div class="galerija">
+                        <div class="slike"><a href="img/komarnici/komarnici1.jpg" data-lightbox="agencija"><img src="img/komarnici/komarnici1.jpg" alt="komarnici1"></a></div>
+                        <div class="slike"><a href="img/komarnici/komarnici2.jpg" data-lightbox="agencija"><img src="img/komarnici/komarnici2.jpg" alt="komarnici2"></a></div>
+                        <div class="slike"><a href="img/komarnici/komarnici3.jpg" data-lightbox="agencija"><img src="img/komarnici/komarnici3.jpg" alt="komarnici3"></a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- SECTION KOMARNICI END -->
 
     <!-- SECTION DIHTOVANJE -->
     <section id="rololux7">
