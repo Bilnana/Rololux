@@ -465,7 +465,22 @@
     <!-- SECTION trakaste ZAVESE END -->
 
     <!-- SECTION KOMARNICI -->
-
+    <section id="rololux6">
+        <div class="o-nama-box">
+            <header class="header-content">
+                <h1>Komarnici</h1>
+            </header>
+            <div class="row row-content">
+                <div class="col-sm-12">
+                    <div class="galerija">
+                        <div class="slike"><a href="img/adaptacija/adaptacija1.jpg" data-lightbox="agencija"><img src="img/adaptacija/adaptacija1.jpg" alt="adaptacija1"></a></div>
+                        <div class="slike"><a href="img/adaptacija/adaptacija2.jpg" data-lightbox="agencija"><img src="img/adaptacija/adaptacija2.jpg" alt="adaptacija2"></a></div>
+                        <div class="slike"><a href="img/adaptacija/adaptacija3.jpg" data-lightbox="agencija"><img src="img/adaptacija/adaptacija1.jpg" alt="adaptacija3"></a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <!-- SECTION KOMARNICI END -->
 
     <!-- SECTION DIHTOVANJE -->
