@@ -16,9 +16,7 @@
 
 <!-- NAVIGATION -->
 <div class="container">
-
-    <nav class="navbar fixed-top navbar-inverse navbar-toggleable-md">
-        <div class="container">
+    <nav class="navbar sticky-top navbar-inverse navbar-toggleable-md container">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarmain" aria-controls="navbarsExampleContainer" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -26,13 +24,13 @@
             <div class="collapse navbar-collapse justify-content-end" id="navbarmain">
                 <ul class="navbar-nav">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Pocetna<span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="#">Početna</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#o-nama">O Nama</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="http://example.com">
+                        <a class="nav-link">
                             Proizvodi
                         </a>
                         <ul class="submenu">
@@ -40,11 +38,11 @@
                             <li><a href="#rololux2">Tende</a></li>
                             <li><a href="#rololux3">Venecijaneri</a></li>
                             <li><a href="#rololux4">Rolo zavese</a></li>
-                            <li><a href="#">Trakaste zavese</a></li>
-                            <li><a href="#">Komarnici</a></li>
-                            <li><a href="#">Dihtovanje</a></li>
-                            <li><a href="#servisiranje">Servis</a></li>
-                            <li><a href="#">Adaptacija prostora</a></li>
+                            <li><a href="#rololux5">Trakaste zavese</a></li>
+                            <li><a href="#rololux6">Komarnici</a></li>
+                            <li><a href="#rololux7">Dihtovanje</a></li>
+                            <li><a href="#rololux8">Servis</a></li>
+                            <li><a href="#rololux9">Adaptacija prostora</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
@@ -52,7 +50,6 @@
                     </li>
                 </ul>
             </div>
-        </div>
     </nav>
 
     <!-- NAVIGATION END -->
@@ -69,25 +66,25 @@
             </ol>
             <div class="carousel-inner" role="listbox">
                 <div class="box carousel-item active">
-                    <img src="/img/hero/pic1.jpg" class="d-block img-responsive img-center">
+                    <img src="/img/hero/pic1.jpg" class="d-block img-responsive img-center" alt="Rololux roletne">
                     <div class="carousel-caption"
                         <p>IZRADA, POPRAVKA I ODRŽAVANJE: Aluminijumskih i PVC roletni, tendi, venecijanera, trakastih zavesa..</p>
                     </div>
                 </div>
                 <div class="box carousel-item">
-                    <img src="/img/hero/pic2.jpg" class="d-block img-responsive img-center">
+                    <img src="/img/hero/pic2.jpg" class="d-block img-responsive img-center" alt="Rololux tende">
                     <div class="carousel-caption"
                          <p>Rolo komarnika, Plisiranih zavesa, Harmonika vrata, Dihtovanje prozora i vrata aluminijumskim lajsnama</p>
                     </div>
                 </div>
                 <div class="box carousel-item">
-                    <img src="/img/hero/pic3.jpg" class="d-block img-responsive img-center">
+                    <img src="/img/hero/pic3.jpg" class="d-block img-responsive img-center" alt="Rololux zavese">
                     <div class="carousel-caption"
                          <p>Odlična toplotna i zvučna izolacija!</p>
                     </div>
                 </div>
                 <div class="box carousel-item">
-                    <img src="/img/hero/pic4.jpg" class="d-block img-responsive img-center">
+                    <img src="/img/hero/pic4.jpg" class="d-block img-responsive img-center" alt="Rololux zavese">
                     <div class="carousel-caption"
                         <p>Brzo i trajno!</p>
                     </div>
@@ -135,31 +132,31 @@
                     <div id="crausel1" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner" role="listbox">
                             <div class="box carousel-item active">
-                                <img src="/img/roletne/roletne1.jpg" class="img-center" src="..." alt="First slide">
+                                <img src="/img/roletne/roletne1.jpg" class="img-center" src="..." alt="First slide" alt="roletne1">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/roletne/roletne2.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/roletne/roletne2.jpg" class="img-center" src="..." alt="Second slide" alt="roletne2">
                         </div>
                             <div class="box carousel-item">
-                                <img src="/img/roletne/roletne3.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/roletne/roletne3.jpg" class="img-center" src="..." alt="Third slide" alt="roletne3">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/roletne/roletne4.jpg" class="img-center" src="..." alt="First slide">
+                                <img src="/img/roletne/roletne4.jpg" class="img-center" src="..." alt="First slide" alt="roletne4">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/roletne/roletne5.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/roletne/roletne5.jpg" class="img-center" src="..." alt="Second slide" alt="roletne5">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/roletne/roletne6.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/roletne/roletne6.jpg" class="img-center" src="..." alt="Third slide" alt="roletne6">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/roletne/roletne7.jpg" class="img-center" src="..." alt="First slide">
+                                <img src="/img/roletne/roletne7.jpg" class="img-center" src="..." alt="First slide" alt="roletne7">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/roletne/roletne8.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/roletne/roletne8.jpg" class="img-center" src="..." alt="Second slide" alt="roletne8">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/roletne/roletne9.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/roletne/roletne9.jpg" class="img-center" src="..." alt="Third slide" alt="roletne9">
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#crausel1" role="button" data-slide="prev">
@@ -202,37 +199,37 @@
                     <div id="crausel2" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner" role="listbox">
                             <div class="box carousel-item active">
-                                <img src="/img/tende/pic1.jpg" class="img-center" src="..." alt="First slide">
+                                <img src="/img/tende/pic1.jpg" class="img-center" src="..." alt="First slide" alt="tende1">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/tende/pic2.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/tende/pic2.jpg" class="img-center" src="..." alt="Second slide" alt="tende2">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/tende/pic3.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/tende/pic3.jpg" class="img-center" src="..." alt="Third slide" alt="tende3">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/tende/pic4.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/tende/pic4.jpg" class="img-center" src="..." alt="Second slide" alt="tende4">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/tende/pic5.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/tende/pic5.jpg" class="img-center" src="..." alt="Third slide" alt="tende5">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/tende/pic6.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/tende/pic6.jpg" class="img-center" src="..." alt="Second slide" alt="tende6">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/tende/pic7.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/tende/pic7.jpg" class="img-center" src="..." alt="Third slide" alt="tende7">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/tende/pic8.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/tende/pic8.jpg" class="img-center" src="..." alt="Second slide" alt="tende8">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/tende/pic9.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/tende/pic9.jpg" class="img-center" src="..." alt="Third slide" alt="tende9">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/tende/pic10.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/tende/pic10.jpg" class="img-center" src="..." alt="Second slide" alt="tende10">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/tende/pic11.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/tende/pic11.jpg" class="img-center" src="..." alt="Third slide" alt="tende11">
                             </div>
                         </div>
                         <a class="carousel-control-prev" data-target="#crausel2" role="button" data-slide="prev">
@@ -294,37 +291,37 @@
                     <div id="crausel3" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner" role="listbox">
                             <div class="box carousel-item active">
-                                <img src="/img/venecijaneri/venecijaneri1.jpg" class="img-center" src="..." alt="First slide">
+                                <img src="/img/venecijaneri/venecijaneri1.jpg" class="img-center" src="..." alt="First slide" alt="venecijaneri1">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/venecijaneri/venecijaneri2.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/venecijaneri/venecijaneri2.jpg" class="img-center" src="..." alt="Second slide" alt="venecijaneri2">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/venecijaneri/venecijaneri3.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/venecijaneri/venecijaneri3.jpg" class="img-center" src="..." alt="Third slide" alt="venecijaneri3">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/venecijaneri/venecijaneri4.jpg" class="img-center" src="..." alt="First slide">
+                                <img src="/img/venecijaneri/venecijaneri4.jpg" class="img-center" src="..." alt="First slide" alt="venecijaneri4">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/venecijaneri/venecijaneri5.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/venecijaneri/venecijaneri5.jpg" class="img-center" src="..." alt="Second slide" alt="venecijaneri5">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/venecijaneri/venecijaneri6.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/venecijaneri/venecijaneri6.jpg" class="img-center" src="..." alt="Third slide" alt="venecijaneri6">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/venecijaneri/venecijaneri7.jpg" class="img-center" src="..." alt="First slide">
+                                <img src="/img/venecijaneri/venecijaneri7.jpg" class="img-center" src="..." alt="First slide" alt="venecijaneri7">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/venecijaneri/venecijaneri8.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/venecijaneri/venecijaneri8.jpg" class="img-center" src="..." alt="Second slide" alt="venecijaneri8">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/venecijaneri/venecijaneri9.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/venecijaneri/venecijaneri9.jpg" class="img-center" src="..." alt="Third slide" alt="venecijaneri9">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/venecijaneri/venecijaneri10.jpg" class="img-center" src="..." alt="First slide">
+                                <img src="/img/venecijaneri/venecijaneri10.jpg" class="img-center" src="..." alt="First slide" alt="venecijaneri10">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/venecijaneri/venecijaneri11.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/venecijaneri/venecijaneri11.jpg" class="img-center" src="..." alt="Second slide" alt="venecijaneri11">
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#crausel3" role="button" data-slide="prev">
@@ -360,37 +357,37 @@
                 <div class="carousel-inner col-sm-12">
                     <div class="carousel-item active">
                         <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese1.jpg" class="img-fluid"></a>
+                            <a href="#x"><img src="/img/rolozavese/rolozavese1.jpg" class="img-fluid" alt="rolo zavese1"></a>
                         </div>
                         <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese2.jpg" class="img-fluid"></a>
+                            <a href="#x"><img src="/img/rolozavese/rolozavese2.jpg" class="img-fluid" alt="rolo zavese2"></a>
                         </div>
                         <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese3.jpg" class="img-fluid"></a>
-                        </div>
-                    </div>
-                    <!--/item-->
-                    <div class="carousel-item">
-                        <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese4.jpg" class="img-fluid"></a>
-                        </div>
-                        <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese5.jpg" class="img-fluid"></a>
-                        </div>
-                        <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese6.jpg" class="img-fluid"></a>
+                            <a href="#x"><img src="/img/rolozavese/rolozavese3.jpg" class="img-fluid" alt="rolo zavese3"></a>
                         </div>
                     </div>
                     <!--/item-->
                     <div class="carousel-item">
                         <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese7.jpg" class="img-fluid"></a>
+                            <a href="#x"><img src="/img/rolozavese/rolozavese4.jpg" class="img-fluid" alt="rolo zavese4"></a>
                         </div>
                         <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese8.jpg" class="img-fluid"></a>
+                            <a href="#x"><img src="/img/rolozavese/rolozavese5.jpg" class="img-fluid" alt="rolo zavese5"></a>
                         </div>
                         <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese9.jpg" class="img-fluid"></a>
+                            <a href="#x"><img src="/img/rolozavese/rolozavese6.jpg" class="img-fluid" alt="rolo zavese6"></a>
+                        </div>
+                    </div>
+                    <!--/item-->
+                    <div class="carousel-item">
+                        <div class="col-sm-4 box">
+                            <a href="#x"><img src="/img/rolozavese/rolozavese7.jpg" class="img-fluid" alt="rolo zavese7"></a>
+                        </div>
+                        <div class="col-sm-4 box">
+                            <a href="#x"><img src="/img/rolozavese/rolozavese8.jpg" class="img-fluid" alt="rolo zavese8"></a>
+                        </div>
+                        <div class="col-sm-4 box">
+                            <a href="#x"><img src="/img/rolozavese/rolozavese9.jpg" class="img-fluid" alt="rolo zavese9"></a>
                         </div>
                     </div>
                     <!--/item-->
@@ -419,44 +416,44 @@
                     <div id="crausel5" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner" role="listbox">
                             <div class="box carousel-item active">
-                                <img src="/img/trakastezavese/trakastezavese1.jpg" class="img-center" src="..." alt="First slide">
+                                <img src="/img/trakastezavese/trakastezavese1.jpg" class="img-center" src="..." alt="First slide" alt="trakaste zavese1">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/trakastezavese/trakastezavese2.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/trakastezavese/trakastezavese2.jpg" class="img-center" src="..." alt="Second slide" alt="trakaste zavese2">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/trakastezavese/trakastezavese3.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/trakastezavese/trakastezavese3.jpg" class="img-center" src="..." alt="Third slide" alt="trakaste zavese3">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/trakastezavese/trakastezavese4.jpg" class="img-center" src="..." alt="First slide">
+                                <img src="/img/trakastezavese/trakastezavese4.jpg" class="img-center" src="..." alt="First slide" alt="trakaste zavese4">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/trakastezavese/trakastezavese5.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/trakastezavese/trakastezavese5.jpg" class="img-center" src="..." alt="Second slide" alt="trakaste zavese5">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/trakastezavese/trakastezavese6.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/trakastezavese/trakastezavese6.jpg" class="img-center" src="..." alt="Third slide" alt="trakaste zavese6">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/trakastezavese/trakastezavese7.jpg" class="img-center" src="..." alt="First slide">
+                                <img src="/img/trakastezavese/trakastezavese7.jpg" class="img-center" src="..." alt="First slide" alt="trakaste zavese7">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/trakastezavese/trakastezavese8.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/trakastezavese/trakastezavese8.jpg" class="img-center" src="..." alt="Second slide" alt="trakaste zavese8">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/trakastezavese/trakastezavese9.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/trakastezavese/trakastezavese9.jpg" class="img-center" src="..." alt="Third slide" alt="trakaste zavese9">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/trakastezavese/trakastezavese10.jpg" class="img-center" src="..." alt="First slide">
+                                <img src="/img/trakastezavese/trakastezavese10.jpg" class="img-center" src="..." alt="First slide" alt="trakaste zavese10">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/trakastezavese/trakastezavese11.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/trakastezavese/trakastezavese11.jpg" class="img-center" src="..." alt="Second slide" alt="trakaste zavese11">
                             </div>
                         </div>
-                        <a class="carousel-control-prev" href="#crausel3" role="button" data-slide="prev">
+                        <a class="carousel-control-prev" href="#crausel5" role="button" data-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                             <span class="sr-only">Previous</span>
                         </a>
-                        <a class="carousel-control-next" href="#crausel3" role="button" data-slide="next">
+                        <a class="carousel-control-next" href="#crausel5" role="button" data-slide="next">
                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                             <span class="sr-only">Next</span>
                         </a>
@@ -479,25 +476,25 @@
                     <div id="crausel7" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner" role="listbox">
                             <div class="box carousel-item active">
-                                <img src="/img/dihtovanje/dihtovanje1.jpg" class="img-center" src="..." alt="First slide">
+                                <img src="/img/dihtovanje/dihtovanje1.jpg" class="img-center" src="..." alt="First slide" alt="dihtovanje1">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/dihtovanje/dihtovanje2.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/dihtovanje/dihtovanje2.jpg" class="img-center" src="..." alt="Second slide" alt="dihtovanje2">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/dihtovanje/dihtovanje3.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/dihtovanje/dihtovanje3.jpg" class="img-center" src="..." alt="Third slide" alt="dihtovanje3">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/dihtovanje/dihtovanje4.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/dihtovanje/dihtovanje4.jpg" class="img-center" src="..." alt="Second slide" alt="dihtovanje4">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/dihtovanje/dihtovanje5.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/dihtovanje/dihtovanje5.jpg" class="img-center" src="..." alt="Third slide" alt="dihtovanje5">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/dihtovanje/dihtovanje6.jpg" class="img-center" src="..." alt="Second slide">
+                                <img src="/img/dihtovanje/dihtovanje6.jpg" class="img-center" src="..." alt="Second slide" alt="dihtovanje6">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/dihtovanje/dihtovanje7.jpg" class="img-center" src="..." alt="Third slide">
+                                <img src="/img/dihtovanje/dihtovanje7.jpg" class="img-center" src="..." alt="Third slide" alt="dihtovanje7">
                             </div>
                         </div>
                         <a class="carousel-control-prev" data-target="#crausel7" role="button" data-slide="prev">
@@ -528,69 +525,9 @@
     </section>
     <!-- SECTION DIHTOVANJE END -->
 
-
-    <!-- SECTION DIHTOVANJE -->
-    <section id="rololux2">
-        <div class="roletne">
-            <header class="header-content">
-                <h1>Dihtovanje</h1>
-            </header>
-            <div class="row row-content">
-                <div class="slider2 col-sm-12 col-md-6 col-lg-6">
-                    <div id="crausel7" class="carousel slide" data-ride="carousel">
-                        <div class="carousel-inner" role="listbox">
-                            <div class="box carousel-item active">
-                                <img src="/img/dihtovanje/dihtovanje1.jpg" class="img-center" src="..." alt="First slide">
-                            </div>
-                            <div class="box carousel-item">
-                                <img src="/img/dihtovanje/dihtovanje2.jpg" class="img-center" src="..." alt="Second slide">
-                            </div>
-                            <div class="box carousel-item">
-                                <img src="/img/dihtovanje/dihtovanje3.jpg" class="img-center" src="..." alt="Third slide">
-                            </div>
-                            <div class="box carousel-item">
-                                <img src="/img/dihtovanje/dihtovanje4.jpg" class="img-center" src="..." alt="Second slide">
-                            </div>
-                            <div class="box carousel-item">
-                                <img src="/img/dihtovanje/dihtovanje5.jpg" class="img-center" src="..." alt="Third slide">
-                            </div>
-                            <div class="box carousel-item">
-                                <img src="/img/dihtovanje/dihtovanje6.jpg" class="img-center" src="..." alt="Second slide">
-                            </div>
-                            <div class="box carousel-item">
-                                <img src="/img/dihtovanje/dihtovanje7.jpg" class="img-center" src="..." alt="Third slide">
-                            </div>
-                        </div>
-                        <a class="carousel-control-prev" data-target="#crausel7" role="button" data-slide="prev">
-                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                            <span class="sr-only">Previous</span>
-                        </a>
-                        <a class="carousel-control-next" data-target="#crausel7" role="button" data-slide="next">
-                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                            <span class="sr-only">Next</span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-sm-12 col-md-6 col-lg-6">
-                    <article class="text-blok1">
-                        <p>Dihtovanje prozora i vrata aluminijumskim lajsnama</p>
-                        <ul>
-                            <li>95% zaštita od vetra</li>
-                            <li>80% zaštite od buke i prašine</li>
-                            <li>30% uštede energije</li>
-                            <li>do 6 stupnjeva C povećana temperatura</li>
-                            <li>trajna garancija</li>
-                            <li>uštedite svoj novac stedeći energiju</li>
-                        </ul>
-                    </article>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- SECTION DIHTOVANJE END -->
 
     <!-- SECTION SERVISIRANJE -->
-    <section id="servisiranje">
+    <section id="rololux8">
         <div class="o-nama-box">
             <header class="header-content">
                 <h1>Servisiranje</h1>
@@ -608,7 +545,7 @@
 
     <!-- SECTION ADAPTACIJA PROSTORA -->
 
-    <section id="adaptacija">
+    <section id="rololux9">
         <div class="o-nama-box">
             <header class="header-content">
                 <h1>Adaptacija prostora</h1>
@@ -616,9 +553,9 @@
             <div class="row row-content">
                 <div class="col-sm-12">
                     <div class="galerija">
-                        <div class="slike"><a href="img/adaptacija/adaptacija1.jpg" data-lightbox="agencija"><img src="img/adaptacija/adaptacija1.jpg" alt="projekti"></a></div>
-                        <div class="slike"><a href="img/adaptacija/adaptacija2.jpg" data-lightbox="agencija"><img src="img/adaptacija/adaptacija2.jpg" alt="projekti"></a></div>
-                        <div class="slike"><a href="img/adaptacija/adaptacija3.jpg" data-lightbox="agencija"><img src="img/adaptacija/adaptacija1.jpg" alt="projekti"></a></div>
+                        <div class="slike"><a href="img/adaptacija/adaptacija1.jpg" data-lightbox="agencija"><img src="img/adaptacija/adaptacija1.jpg" alt="adaptacija1"></a></div>
+                        <div class="slike"><a href="img/adaptacija/adaptacija2.jpg" data-lightbox="agencija"><img src="img/adaptacija/adaptacija2.jpg" alt="adaptacija2"></a></div>
+                        <div class="slike"><a href="img/adaptacija/adaptacija3.jpg" data-lightbox="agencija"><img src="img/adaptacija/adaptacija1.jpg" alt="adaptacija3"></a></div>
                     </div>
                 </div>
             </div>

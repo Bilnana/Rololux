@@ -28,14 +28,18 @@
   list-style: none;
 }
 
-.navbar a {
+.navbar ul a {
   color:$white;
   font-family:'Amble-Bold';
   font-size: 22px;
   transition: all 0.3s ease 0s;
 }
-.navbar  a:hover{
+.navbar ul a:hover{
   transform: scale(1.1);
+  color: $gray-lightest;
+}
+.navbar ul a:active{
+  color: $white;
 }
 
 
@@ -60,7 +64,7 @@
 }
 
 .submenu li {
-  color: gray;
+  color: $gray;
   opacity: 0;
   background: url(/img/navpic.jpg);
   padding-top: 5px;
