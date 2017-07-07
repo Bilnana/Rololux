@@ -199,37 +199,37 @@
                     <div id="crausel2" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner" role="listbox">
                             <div class="box carousel-item active">
-                                <img src="/img/tende/pic1.jpg" class="img-center" src="..." alt="First slide" alt="tende1">
+                                <img src="/img/tende/tende1.jpg" class="img-center" src="..." alt="First slide" alt="tende1">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/tende/pic2.jpg" class="img-center" src="..." alt="Second slide" alt="tende2">
+                                <img src="/img/tende/tende2.jpg" class="img-center" src="..." alt="Second slide" alt="tende2">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/tende/pic3.jpg" class="img-center" src="..." alt="Third slide" alt="tende3">
+                                <img src="/img/tende/tende3.jpg" class="img-center" src="..." alt="Third slide" alt="tende3">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/tende/pic4.jpg" class="img-center" src="..." alt="Second slide" alt="tende4">
+                                <img src="/img/tende/tende4.jpg" class="img-center" src="..." alt="Second slide" alt="tende4">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/tende/pic5.jpg" class="img-center" src="..." alt="Third slide" alt="tende5">
+                                <img src="/img/tende/tende5.jpg" class="img-center" src="..." alt="Third slide" alt="tende5">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/tende/pic6.jpg" class="img-center" src="..." alt="Second slide" alt="tende6">
+                                <img src="/img/tende/tende6.jpg" class="img-center" src="..." alt="Second slide" alt="tende6">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/tende/pic7.jpg" class="img-center" src="..." alt="Third slide" alt="tende7">
+                                <img src="/img/tende/tende7.jpg" class="img-center" src="..." alt="Third slide" alt="tende7">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/tende/pic8.jpg" class="img-center" src="..." alt="Second slide" alt="tende8">
+                                <img src="/img/tende/tende8.jpg" class="img-center" src="..." alt="Second slide" alt="tende8">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/tende/pic9.jpg" class="img-center" src="..." alt="Third slide" alt="tende9">
+                                <img src="/img/tende/tende9.jpg" class="img-center" src="..." alt="Third slide" alt="tende9">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/tende/pic10.jpg" class="img-center" src="..." alt="Second slide" alt="tende10">
+                                <img src="/img/tende/tende10.jpg" class="img-center" src="..." alt="Second slide" alt="tende10">
                             </div>
                             <div class="box carousel-item">
-                                <img src="/img/tende/pic11.jpg" class="img-center" src="..." alt="Third slide" alt="tende11">
+                                <img src="/img/tende/tende11.jpg" class="img-center" src="..." alt="Third slide" alt="tende11">
                             </div>
                         </div>
                         <a class="carousel-control-prev" data-target="#crausel2" role="button" data-slide="prev">
