@@ -473,9 +473,9 @@
             <div class="row row-content">
                 <div class="col-sm-12">
                     <div class="galerija">
-                        <div class="slike"><a href="img/komarnici/komarnici1.jpg" data-lightbox="agencija"><img src="img/adaptacija/adaptacija1.jpg" alt="komarnici1"></a></div>
-                        <div class="slike"><a href="img/komarnici/komarnici2.jpg" data-lightbox="agencija"><img src="img/adaptacija/adaptacija2.jpg" alt="komarnici2"></a></div>
-                        <div class="slike"><a href="img/komarnici/komarnici3.jpg" data-lightbox="agencija"><img src="img/adaptacija/adaptacija1.jpg" alt="komarnici3"></a></div>
+                        <div class="slike"><a href="img/komarnici/komarnici1.jpg" data-lightbox="agencija"><img src="img/komarnici/komarnici1.jpg" alt="komarnici1"></a></div>
+                        <div class="slike"><a href="img/komarnici/komarnici2.jpg" data-lightbox="agencija"><img src="img/komarnici/komarnici2.jpg" alt="komarnici2"></a></div>
+                        <div class="slike"><a href="img/komarnici/komarnici3.jpg" data-lightbox="agencija"><img src="img/komarnici/komarnici3.jpg" alt="komarnici3"></a></div>
                     </div>
                 </div>
             </div>
