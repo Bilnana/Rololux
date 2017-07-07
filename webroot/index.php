@@ -462,8 +462,11 @@
             </div>
         </div>
     </section>
-    <!--SECTION VENECIJANERI -->
+    <!-- SECTION trakaste ZAVESE END -->
 
+    <!-- SECTION KOMARNICI -->
+
+    <!-- SECTION KOMARNICI END -->
 
     <!-- SECTION DIHTOVANJE -->
     <section id="rololux2">
