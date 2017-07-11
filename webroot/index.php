@@ -241,7 +241,8 @@
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-6">
                     <article class="text-blok1">
-                        <p>Tende su potreba, ali i ukras vašeg doma ili poslovnog prostora. Čine zaštitu od<br> prejakog sunca ili svetla, a veličinom i oblikom se mogu prilagoditi svakom<br> zahtevu. Mi vam nudimo celokupan izbor tendi:</p>
+                        <p>Tende su potreba, ali i ukras vašeg doma ili poslovnog prostora. Čine zaštitu od prejakog sunca ili svetla, a veličinom i oblikom se mogu prilagoditi svakom zahtevu.</p>
+                        <p>Mi vam nudimo celokupan izbor tendi:</p>
                         <ul>
                             <li>Ravne</li>
                             <li>Polukružne</li>
