@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="description" content="Rololux NS je ozbiljno privatno preduzeće, koje se bavi proizvodnjom i ugradnjom proizvoda vezanih za enterijer i eksterijer vašeg doma. Izrada, popravka i održavanje aluminijumskih i PVC roletni, tendi, venecijanera, trakastih zavesa, rolo komarnika, plisiranih zavesa, harmonika vrata, dihtovanje prozora i vrata aluminijumskim lajsnama.">
     <meta name="keywords" content="Rololux, Rololux NS, Rololux Novi Sad, roletne, venecijaneri, tende, dihtovanje, komarnici, zavese, rolo zavese, trakaste zavese, adaptacija prostora">
-    <meta name="Biljana Ljubojevic and Marko Marijanski" content="Rololux task">
+    <meta name="Biljana Ljubojević and Marko Marijanski" content="Rololux task">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rololux</title>
     <!-- CSS -->
@@ -615,7 +615,7 @@
                 </ul>
             </div>
             <div class="author col-sm-12">
-                <p>&copy; Mare & Bilja 2017</p>
+                <p>Copyright &copy; <a href="https://gitlab.com/marKoZz94">Marko Marijanski</a> & <a href="https://gitlab.com/Bilja">Biljana Ljubojević 2017</a></p>
             </div>
         </div>
     </footer>
