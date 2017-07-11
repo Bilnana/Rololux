@@ -16,36 +16,36 @@
 
 <!-- NAVIGATION -->
 <div class="container">
-    <nav class="navbar sticky-top navbar-inverse navbar-toggleable-md container">
+    <nav  id="navbar"class="navbar sticky-top navbar-inverse navbar-toggleable-md container">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarmain" aria-controls="navbarsExampleContainer" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <a class="navbar-brand" href="#"><span class="rolo">ROLO</span><span class="lux">LUX</span><span class="ns"> NS</span></a>
             <div class="collapse navbar-collapse justify-content-end" id="navbarmain">
                 <ul class="navbar-nav">
-                    <li class="nav-item active">
+                    <li class="nav-item active" data-toggle="collapse" data-target=".navbar-collapse.show">
                         <a class="nav-link" href="#">Početna</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#o-nama">O Nama</a>
+                    <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
+                        <a class="nav-link" href="#o-nama" data-target=".navbar-collapse.in">O Nama</a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item" >
                         <a class="nav-link">
                             Proizvodi
                         </a>
                         <ul class="submenu">
-                            <li><a href="#rololux1">Roletne</a></li>
-                            <li><a href="#rololux2">Tende</a></li>
-                            <li><a href="#rololux3">Venecijaneri</a></li>
-                            <li><a href="#rololux4">Rolo zavese</a></li>
-                            <li><a href="#rololux5">Trakaste zavese</a></li>
-                            <li><a href="#rololux6">Komarnici</a></li>
-                            <li><a href="#rololux7">Dihtovanje</a></li>
-                            <li><a href="#rololux8">Servis</a></li>
-                            <li><a href="#rololux9">Adaptacija prostora</a></li>
+                            <li data-toggle="collapse" data-target=".navbar-collapse.show"><a href="#rololux1">Roletne</a></li>
+                            <li data-toggle="collapse" data-target=".navbar-collapse.show"><a href="#rololux2">Tende</a></li>
+                            <li data-toggle="collapse" data-target=".navbar-collapse.show"><a href="#rololux3">Venecijaneri</a></li>
+                            <li data-toggle="collapse" data-target=".navbar-collapse.show"><a href="#rololux4">Rolo zavese</a></li>
+                            <li data-toggle="collapse" data-target=".navbar-collapse.show"><a href="#rololux5">Trakaste zavese</a></li>
+                            <li data-toggle="collapse" data-target=".navbar-collapse.show"><a href="#rololux6">Komarnici</a></li>
+                            <li data-toggle="collapse" data-target=".navbar-collapse.show"><a href="#rololux7">Dihtovanje</a></li>
+                            <li data-toggle="collapse" data-target=".navbar-collapse.show"><a href="#rololux8">Servis</a></li>
+                            <li data-toggle="collapse" data-target=".navbar-collapse.show"><a href="#rololux9">Adaptacija prostora</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
                         <a class="nav-link" href="#kontakt">Kontakt</a>
                     </li>
                 </ul>
