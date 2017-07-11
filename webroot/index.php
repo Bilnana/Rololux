@@ -17,8 +17,8 @@
 
 <body>
 
-<!-- NAVIGATION -->
 <div class="container">
+    <!-- Navigation -->
     <nav class="navbar sticky-top navbar-inverse navbar-toggleable-md container">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarmain" aria-controls="navbarsExampleContainer" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -55,10 +55,7 @@
             </div>
     </nav>
 
-    <!-- NAVIGATION END -->
-
-    <!-- HEADER SLIDER -->
-
+    <!-- Header slider -->
     <header class="mainhead">
         <div id="crausel-big" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
@@ -96,10 +93,7 @@
         </div>
     </header>
 
-    <!-- HEADER SLIDER END -->
-
-    <!-- SECTION O NAMA -->
-
+    <!-- O nama -->
     <section id="o-nama">
         <div class="o-nama-box">
             <header class="header-content">
@@ -114,9 +108,8 @@
             </div>
         </div>
     </section>
-    <!-- SECTION O NAMA END -->
 
-    <!-- SECTION ROLETNE -->
+    <!-- Roletne -->
     <section id="rololux1">
         <div class="roletne">
             <header class="header-content">
@@ -189,9 +182,8 @@
             </div>
         </div>
     </section>
-    <!-- END SECTION ROLETNE -->
 
-    <!-- SECTION TENDE -->
+    <!-- Tende -->
     <section id="rololux2">
         <div class="tende">
             <header class="header-content">
@@ -270,9 +262,8 @@
             </div>
         </div>
     </section>
-    <!--END SECTION TENDE -->
 
-    <!--SECTION VENECIJANERI -->
+    <!--Venecijaneri -->
     <section id="rololux3">
         <div class="venecijaneri">
             <header class="header-content">
@@ -340,9 +331,8 @@
             </div>
         </div>
     </section>
-    <!--SECTION VENECIJANERI -->
 
-    <!--SECTION ROLO ZAVESE -->
+    <!--Rolo zavese -->
     <section id="rololux4">
         <div class="rolozavese">
             <header class="header-content">
@@ -401,9 +391,8 @@
         </div>
         </div>
     </section>
-    <!--SECTION ROLO ZAVESE -->
 
-    <!--SECTION trakaste ZAVESE -->
+    <!-- Trakaste zavese -->
      <section id="rololux5">
         <div class="trakaste">
             <header class="header-content">
@@ -465,9 +454,8 @@
             </div>
         </div>
     </section>
-    <!-- SECTION trakaste ZAVESE END -->
 
-    <!-- SECTION KOMARNICI -->
+    <!-- Komarnici -->
     <section id="rololux6">
         <div class="o-nama-box">
             <header class="header-content">
@@ -484,9 +472,8 @@
             </div>
         </div>
     </section>
-    <!-- SECTION KOMARNICI END -->
 
-    <!-- SECTION DIHTOVANJE -->
+    <!-- Dihtovanje -->
     <section id="rololux7">
         <div class="dihtovanje">
             <header class="header-content">
@@ -544,10 +531,8 @@
             </div>
         </div>
     </section>
-    <!-- SECTION DIHTOVANJE END -->
 
-
-    <!-- SECTION SERVISIRANJE -->
+    <!-- Servisiranje -->
     <section id="rololux8">
         <div class="o-nama-box">
             <header class="header-content">
@@ -562,10 +547,8 @@
         </div>
         </div>
     </section>
-    <!-- SECTION SERVISIRANJE END -->
 
-    <!-- SECTION ADAPTACIJA PROSTORA -->
-
+    <!-- Adaptacija prostora -->
     <section id="rololux9">
         <div class="o-nama-box">
             <header class="header-content">
@@ -583,8 +566,7 @@
         </div>
     </section>
 
-    <!-- SECTION ADAPTACIJA PROSTORA END -->
-
+    <!-- Kontakt -->
     <section id="kontakt">
         <div class="roletne">
             <div class="contact-map row row-content">
@@ -607,8 +589,8 @@
             </div>
         </div>
     </section>
-    <!-- SECTION CONTACT -->
 
+    <!-- Footer -->
     <footer class="footer">
         <div class="row">
             <div class="col-sm-3">
@@ -639,9 +621,11 @@
     </footer>
 </div>
 
+    <!-- JS -->
 <script src="/js/jquery.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/local-javascript.js"></script>
 <script src="/js/lightbox.js"></script>
+
 </body>
 </html>
