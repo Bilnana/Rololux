@@ -2,20 +2,26 @@
 
 <html lang="sr-RS-latin">
 <head>
+    <!-- Meta -->
     <meta charset="utf-8">
+    <meta name="description" content="Rololux NS je ozbiljno privatno preduzeće, koje se bavi proizvodnjom i ugradnjom proizvoda vezanih za enterijer i eksterijer vašeg doma. Izrada, popravka i održavanje aluminijumskih i PVC roletni, tendi, venecijanera, trakastih zavesa, rolo komarnika, plisiranih zavesa, harmonika vrata, dihtovanje prozora i vrata aluminijumskim lajsnama.">
+    <meta name="keywords" content="Rololux, Rololux NS, Rololux Novi Sad, roletne, venecijaneri, tende, dihtovanje, komarnici, zavese, rolo zavese, trakaste zavese, adaptacija prostora">
+    <meta name="Biljana Ljubojević and Marko Marijanski" content="Rololux task">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rololux</title>
-    <meta name="Biljana Ljubojevic" content="Task">
-    <!-- CSS file -->
+    <!-- CSS -->
     <link rel="stylesheet" href="/css/styles.css" type="text/css">
     <link rel="stylesheet" href="/css/lightbox.css" type="text/css">
     <link rel="stylesheet" href="/css/font-awesome.css" type="text/css">
+    <!-- Favicon-->
+    <link rel="icon" type="image/ico" href="img/favicon.ico">
 </head>
 
 <body>
 
-<!-- NAVIGATION -->
 <div class="container">
+    <!-- Navigation -->
+    <nav class="navbar sticky-top navbar-inverse navbar-toggleable-md container">
     <nav  id="navbar"class="navbar sticky-top navbar-inverse navbar-toggleable-md container">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarmain" aria-controls="navbarsExampleContainer" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -52,10 +58,7 @@
             </div>
     </nav>
 
-    <!-- NAVIGATION END -->
-
-    <!-- HEADER SLIDER -->
-
+    <!-- Header slider -->
     <header class="mainhead">
         <div id="crausel-big" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
@@ -68,13 +71,13 @@
                 <div class="box carousel-item active">
                     <img src="/img/hero/hero1.jpg" class="d-block img-responsive img-center" alt="Rololux roletne">
                     <div class="carousel-caption"
-                        <p>IZRADA, POPRAVKA I ODRŽAVANJE: Aluminijumskih i PVC roletni, tendi, venecijanera, trakastih zavesa..</p>
+                        <p>Izrada, popravka i održavanje: aluminijumskih i PVC roletni, tendi, venecijanera, trakastih zavesa..</p>
                     </div>
                 </div>
                 <div class="box carousel-item">
                     <img src="/img/hero/hero2.jpg" class="d-block img-responsive img-center" alt="Rololux tende">
                     <div class="carousel-caption"
-                         <p>Rolo komarnika, Plisiranih zavesa, Harmonika vrata, Dihtovanje prozora i vrata aluminijumskim lajsnama</p>
+                         <p>Rolo komarnika, plisiranih zavesa, harmonika vrata, dihtovanje prozora i vrata aluminijumskim lajsnama.</p>
                     </div>
                 </div>
                 <div class="box carousel-item">
@@ -93,10 +96,7 @@
         </div>
     </header>
 
-    <!-- HEADER SLIDER END -->
-
-    <!-- SECTION O NAMA -->
-
+    <!-- O nama -->
     <section id="o-nama">
         <div class="o-nama-box">
             <header class="header-content">
@@ -105,15 +105,14 @@
             <div class="row row-content">
                 <div class="col-sm-12>
                     <article class="text-block-o-nama">
-                <p>Firma <strong>Rololux NS</strong> je osnovana 1950. godine kao samostalna zanatska radnja za proizvodnju i odrzavanje roletni. Firma je pocela sa radom u Novom Sadu, gde se uspesno i odrzala vec tri generacije. Danas smo, zahvaljujući uspešnim poslovanjem postali ozbiljno privatno preduzeće, koje se bavi proizvodnjom i ugradnjom proizvoda vezanih za enterijer i eksterijer vašeg doma. Vremenom smo došli do zavidnog nivoa proizvodnje korišćenjem savremenih tehnologija, modernizacijom opreme i alata u proizvodnji i praćenjem evropskih i svetskih trendova. Sve to je dovelo do povećanja obima proizvodnje a time i povećanja kvaliteta i proširenja palete proizvoda. Mozemo vam se pohvaliti kvalitetom, strucnim i profesionalnim osobljem, raznovrsnošću programa za opremanje kuća, stanova, poslovnoih prostora i sl...Većina naših proizvoda imaju mogućnostu ugradnje elektro motora i daljinskog upravljanja.</p>
+                        <p>Firma <strong>Rololux NS</strong> je osnovana 1950. godine kao samostalna zanatska radnja za proizvodnju i održavanje roletni. Firma je počela sa radom u Novom Sadu, gde se uspšno i održala već tri generacije. Danas smo, zahvaljujući uspešnim poslovanjem postali ozbiljno privatno preduzeće, koje se bavi proizvodnjom i ugradnjom proizvoda vezanih za enterijer i eksterijer vašeg doma. Vremenom smo došli do zavidnog nivoa proizvodnje korišćenjem savremenih tehnologija, modernizacijom opreme i alata u proizvodnji i praćenjem evropskih i svetskih trendova. Sve to je dovelo do povećanja obima proizvodnje a time i povećanja kvaliteta i proširenja palete proizvoda. Možemo vam se pohvaliti kvalitetom, stručnim i profesionalnim osobljem, raznovrsnošću programa za opremanje kuća, stanova, poslovnoih prostora i sl...Većina naših proizvoda imaju mogućnostu ugradnje elektro motora i daljinskog upravljanja.</p>
                     </article>
                 </div>
             </div>
         </div>
     </section>
-    <!-- SECTION O NAMA END -->
 
-    <!-- SECTION ROLETNE -->
+    <!-- Roletne -->
     <section id="rololux1">
         <div class="roletne">
             <header class="header-content">
@@ -122,7 +121,7 @@
             <div class="row row-content">
                 <div class="col-sm-12 col-md-6 col-lg-6">
                     <article class="text-block1">
-                        <p>Roletne su jedan od najstarijih i najrasprostranjenijih zasenjivača prostora Ugrađuju se na prozore ili vrata, sa spoljašnje strane samog otvora. Roletne služe i kao zaštita same stolarije na koju se ugrađuju od vremenskih promena i nepogoda(sunce, kiša, grad, sneg..). Mogu biti <strong>plastične ili aluminijumske.</strong>
+                        <p>Roletne su jedan od najstarijih i najrasprostranjenijih zasenjivača prostora. Ugrađuju se na prozore ili vrata, sa spoljašnje strane samog otvora. Roletne služe i kao zaštita same stolarije na koju se ugrađuju od vremenskih promena i nepogoda(sunce, kiša, grad, sneg..). Mogu biti <strong>plastične ili aluminijumske.</strong>
                         </p>
                         <p>I jedne i druge klize gore-dole po vođicama koje mogu biti fiksirane ili na izbacivanje Kod fiksiranih vođica roletna ima mogućnost klizanja smo gore-dole. Za razliku od ovih, vođice na izbacivanje poseduju tzv. makaze koje omogućavaju izbacivanje donjeg dela roletne ka spolja.
                         </p>
@@ -171,10 +170,10 @@
                 </div>
                 <div class="col-sm-12">
                     <article class="text-blok2">
-                        <p>Kod <strong>aluminijumskih</strong> roletni vođice takođe mogu biti od aluminijuma i takav tip roletne se zove "total aluminijum". Ovaj tip roletni ima i giksirane vođice i mogućnosti izbacivanja ka spolja. Vođice se obično plastificiraju u boju same roletne.</p>
-                        <p><strong>Plastične</strong> roletne su jeftinije od aluminijumskih roletni ali se ne preporučuju za velike površine otvora koji se nalaze na sunčanim stranama objekata u koji se roletne ugrađjuj. Za razliku od plastičnih roletni, aluminijumske roletne su dužeg veka trajanja.</p>
-                        <p>Aluminijumske roletne se sastoje od aluminijumskih letvica šitine 3.9 cm. Svaka letvica je ispunjena poliureanom što predstavlja odličnu, kako zvučnu, tako i toplotnu izolaciju. Zastor za aluminijumske roletne postoji u nekoliko boja:</p>
-                        <ul class="dashed">
+                        <p>Kod <strong>aluminijumskih</strong> roletni vođice takođe mogu biti od aluminijuma i takav tip roletne se zove "total aluminijum". Ovaj tip roletni ima i fiksirane vođice i mogućnosti izbacivanja spolja. Vođice se obično plastificiraju u boju same roletne.</p>
+                        <p><strong>Plastične</strong> roletne su jeftinije od aluminijumskih roletni ali se ne preporučuju za velike površine otvora koji se nalaze na sunčanim stranama objekata u koji se roletne ugrađjuju. Za razliku od plastičnih roletni, aluminijumske roletne su dužeg veka trajanja.</p>
+                        <p>Aluminijumske roletne se sastoje od aluminijumskih letvica širine 3.9 cm. Svaka letvica je ispunjena poliureanom što predstavlja odličnu, kako zvučnu, tako i toplotnu izolaciju. Zastor za aluminijumske roletne postoji u nekoliko boja:</p>
+                        <ul>
                             <li>Bela,</li>
                             <li>Braon,</li>
                             <li>Siva,</li>
@@ -186,9 +185,8 @@
             </div>
         </div>
     </section>
-    <!-- END SECTION ROLETNE -->
 
-    <!-- SECTION TENDE -->
+    <!-- Tende -->
     <section id="rololux2">
         <div class="tende">
             <header class="header-content">
@@ -244,20 +242,21 @@
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-6">
                     <article class="text-blok1">
-                        <p>Tende su potreba, ali i ukras vašeg doma ili poslovnog prostora. Čine zaštitu od<br> prejakog sunca ili svetla, a veličinom i oblikom se mogu prilagoditi svakom<br> zahtevu. Mi vam nudimo celokupan izbor tendi:</p>
+                        <p>Tende su potreba, ali i ukras vašeg doma ili poslovnog prostora. Čine zaštitu od prejakog sunca ili svetla, a veličinom i oblikom se mogu prilagoditi svakom zahtevu.</p>
+                        <p>Mi vam nudimo celokupan izbor tendi:</p>
                         <ul>
                             <li>Ravne</li>
                             <li>Polukružne</li>
                             <li>Kupolaste</li>
                             <li>Samostojeće</li>
                             <li>Fiksne</li>
-                            <li>Ra ručnim namotavanjem</li>
+                            <li>Sa ručnim namotavanjem</li>
                             <li>Sa električnim namotavanjem</li>
                         </ul>
                         <p>Cena zavisi od veličine, vrste i načina namotavanja, materijala, a:
                         </p>
                         <ul>
-                            <li>Kvalitet, sigurnost i izuzetan estetski utisak može se postići ugradnjom naših tendi</li>
+                            <li>Kvalitet, sigurnost i izuzetan estetski utisak može se postići ugradnjom naših tendi.</li>
                             <li>Raznovrsnim izborom boja i dezena platna omogućićemo najprikladnije rešenje za vaš ambijent.</li>
                             <li>Svi tipovi tendi podjednako dobro i kvalitetno štite, kako od sunca, tako i od kiše.</li>
                         </ul>
@@ -267,9 +266,8 @@
             </div>
         </div>
     </section>
-    <!--END SECTION TENDE -->
 
-    <!--SECTION VENECIJANERI -->
+    <!--Venecijaneri -->
     <section id="rololux3">
         <div class="venecijaneri">
             <header class="header-content">
@@ -278,13 +276,13 @@
             <div class="row row-content">
                 <div class="col-sm-12 col-md-6 col-lg-6">
                     <article class="text-block1">
-                        <p>Popularna venecijaner zavesa od legiranog aluminijuma se lako održava Odaberite boju i dezen koji se uklapa sa nameštajem i bojom zidova Venecijaneri se ugrađuju sa unutrašnje strane prozora uz samo staklo ali nepostoji mogućnost njegovog oštećenja.
+                        <p>Popularna venecijaner zavesa od legiranog aluminijuma se lako održava. Odaberite boju i dezen koji se uklapa sa nameštajem i bojom zidova. Venecijaneri se ugrađuju sa unutrašnje strane prozora uz samo staklo ali nepostoji mogućnost njegovog oštećenja.
                         </p>
                         <p>Drvena venecijaner zavesa stvara intimnu atmosferu i predstavlja ukras visoke estetetske vrednosti.
                         </p>
                         <P>Aluminijumski venecijaneri se izrađuju u velikom spektru boja i dezena. Kupac može da bira između tekstura mramora, granita, drveta i drugih prirodnih materijala. Posebno zanimljivu igru svetlosti i senke stvaraju venecijaneri sa perforiranom površinom.</P>
-                        <P>Trake venecijanera se pomeraju, tj. otvaraju i zatvaraju pomoću plastične palice Pomeranjem palice okrećemo trake i određujemo količinu svetlosti koju puštamo u prostoriju. Venecijaneri se mogu podizati i spuštati.</P>
-                        <P>Održavanje venecijanera je veoma lako i jednostavno Peru se identično kao i prozori.</P>
+                        <P>Trake venecijanera se pomeraju, tj. otvaraju i zatvaraju pomoću plastične palice. Pomeranjem palice okrećemo trake i određujemo količinu svetlosti koju puštamo u prostoriju. Venecijaneri se mogu podizati i spuštati.</P>
+                        <P>Održavanje venecijanera je veoma lako i jednostavno. Peru se identično kao i prozori.</P>
                     </article>
                 </div>
                 <div class="slider2 col-sm-12 col-md-6 col-lg-6">
@@ -337,9 +335,8 @@
             </div>
         </div>
     </section>
-    <!--SECTION VENECIJANERI -->
 
-    <!--SECTION ROLO ZAVESE -->
+    <!--Rolo zavese -->
     <section id="rololux4">
         <div class="rolozavese">
             <header class="header-content">
@@ -398,9 +395,8 @@
         </div>
         </div>
     </section>
-    <!--SECTION ROLO ZAVESE -->
 
-    <!--SECTION trakaste ZAVESE -->
+    <!-- Trakaste zavese -->
      <section id="rololux5">
         <div class="trakaste">
             <header class="header-content">
@@ -462,28 +458,26 @@
             </div>
         </div>
     </section>
-    <!-- SECTION trakaste ZAVESE END -->
 
-    <!-- SECTION KOMARNICI -->
+    <!-- Komarnici -->
     <section id="rololux6">
-        <div class="o-nama-box">
+        <div class="komarnici">
             <header class="header-content">
                 <h1>Komarnici</h1>
             </header>
             <div class="row row-content">
                 <div class="col-sm-12">
                     <div class="galerija">
-                        <div class="slike"><a href="img/komarnici/komarnici1.jpg" data-lightbox="komarnici"><img src="img/komarnici/komarnici1.jpg" alt="komarnici1"></a></div>
-                        <div class="slike"><a href="img/komarnici/komarnici2.jpg" data-lightbox="komarnici"><img src="img/komarnici/komarnici2.jpg" alt="komarnici2"></a></div>
-                        <div class="slike"><a href="img/komarnici/komarnici3.jpg" data-lightbox="komarnici"><img src="img/komarnici/komarnici3.jpg" alt="komarnici3"></a></div>
+                        <div class="slike"><a href="/img/komarnici/komarnici1.jpg" data-lightbox="komarnici"><img src="/img/komarnici/komarnici1.jpg" alt="komarnici1"></a></div>
+                        <div class="slike"><a href="/img/komarnici/komarnici2.jpg" data-lightbox="komarnici"><img src="/img/komarnici/komarnici2.jpg" alt="komarnici2"></a></div>
+                        <div class="slike"><a href="/img/komarnici/komarnici3.jpg" data-lightbox="komarnici"><img src="/img/komarnici/komarnici3.jpg" alt="komarnici3"></a></div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- SECTION KOMARNICI END -->
 
-    <!-- SECTION DIHTOVANJE -->
+    <!-- Dihtovanje -->
     <section id="rololux7">
         <div class="dihtovanje">
             <header class="header-content">
@@ -527,7 +521,7 @@
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-6">
                     <article class="text-blok1">
-                        <p>Dihtovanje prozora i vrata aluminijumskim lajsnama</p>
+                        <p>Dihtovanje prozora i vrata aluminijumskim lajsnama:</p>
                         <ul>
                             <li>95% zaštita od vetra</li>
                             <li>80% zaštite od buke i prašine</li>
@@ -541,49 +535,44 @@
             </div>
         </div>
     </section>
-    <!-- SECTION DIHTOVANJE END -->
 
-
-    <!-- SECTION SERVISIRANJE -->
+    <!-- Servisiranje -->
     <section id="rololux8">
-        <div class="o-nama-box">
+        <div class="servisiranje">
             <header class="header-content">
                 <h1>Servisiranje</h1>
             </header>
             <div class="row row-content">
                 <div class="col-sm-12>
                     <article class="text-block-o-nama">
-                <p>Vršimo sve vrste popravki i održavanja cele palete naših proizvoda. Za sve informacije, osećajte se slobodnim da nam se obratite na neke od naših brojeva telefona. </p>
-                </article>
+                        <p>Vršimo sve vrste popravki i održavanja cele palete naših proizvoda. Za sve informacije, osećajte se slobodnim da nam se obratite na neke od naših brojeva telefona.</p>
+                    </article>
+                </div>
             </div>
         </div>
-        </div>
     </section>
-    <!-- SECTION SERVISIRANJE END -->
 
-    <!-- SECTION ADAPTACIJA PROSTORA -->
-
+    <!-- Adaptacija prostora -->
     <section id="rololux9">
-        <div class="o-nama-box">
+        <div class="adaptacija">
             <header class="header-content">
                 <h1>Adaptacija prostora</h1>
             </header>
             <div class="row row-content">
                 <div class="col-sm-12">
                     <div class="galerija">
-                        <div class="slike"><a href="img/adaptacija/adaptacija1.jpg" data-lightbox="adaptacija"><img src="img/adaptacija/adaptacija1.jpg" alt="adaptacija1"></a></div>
-                        <div class="slike"><a href="img/adaptacija/adaptacija2.jpg" data-lightbox="adaptacija"><img src="img/adaptacija/adaptacija2.jpg" alt="adaptacija2"></a></div>
-                        <div class="slike"><a href="img/adaptacija/adaptacija3.jpg" data-lightbox="adaptacija"><img src="img/adaptacija/adaptacija1.jpg" alt="adaptacija3"></a></div>
+                        <div class="slike"><a href="/img/adaptacija/adaptacija1.jpg" data-lightbox="adaptacija"><img src="/img/adaptacija/adaptacija1.jpg" alt="adaptacija1"></a></div>
+                        <div class="slike"><a href="/img/adaptacija/adaptacija2.jpg" data-lightbox="adaptacija"><img src="/img/adaptacija/adaptacija2.jpg" alt="adaptacija2"></a></div>
+                        <div class="slike"><a href="/img/adaptacija/adaptacija3.jpg" data-lightbox="adaptacija"><img src="/img/adaptacija/adaptacija1.jpg" alt="adaptacija3"></a></div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- SECTION ADAPTACIJA PROSTORA END -->
-
+    <!-- Kontakt -->
     <section id="kontakt">
-        <div class="roletne">
+        <div class="o-nama-box">
             <div class="contact-map row row-content">
                 <section class="bg-contact col-sm-12 col-md-6 col-lg-6">
                     <adress class="contact-details">
@@ -604,8 +593,8 @@
             </div>
         </div>
     </section>
-    <!-- SECTION CONTACT -->
 
+    <!-- Footer -->
     <footer class="footer">
         <div class="row">
             <div class="col-sm-3">
@@ -630,15 +619,17 @@
                 </ul>
             </div>
             <div class="author col-sm-12">
-                <p>&copy; Mare & Bilja 2017</p>
+                <p>Copyright &copy; <a href="https://gitlab.com/marKoZz94">Marko Marijanski</a> & <a href="https://gitlab.com/Bilja">Biljana Ljubojević 2017</a></p>
             </div>
         </div>
     </footer>
 </div>
 
+    <!-- JS -->
 <script src="/js/jquery.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/local-javascript.js"></script>
 <script src="/js/lightbox.js"></script>
+
 </body>
 </html>
