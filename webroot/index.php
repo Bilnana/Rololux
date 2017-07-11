@@ -13,6 +13,8 @@
     <link rel="stylesheet" href="/css/styles.css" type="text/css">
     <link rel="stylesheet" href="/css/lightbox.css" type="text/css">
     <link rel="stylesheet" href="/css/font-awesome.css" type="text/css">
+    <!-- Favicon-->
+    <link rel="icon" type="image/ico" href="img/favicon.ico">
 </head>
 
 <body>
