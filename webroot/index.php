@@ -70,13 +70,13 @@
                 <div class="box carousel-item active">
                     <img src="/img/hero/hero1.jpg" class="d-block img-responsive img-center" alt="Rololux roletne">
                     <div class="carousel-caption"
-                        <p>IZRADA, POPRAVKA I ODRŽAVANJE: Aluminijumskih i PVC roletni, tendi, venecijanera, trakastih zavesa..</p>
+                        <p>Izrada, popravka i održavanje: aluminijumskih i PVC roletni, tendi, venecijanera, trakastih zavesa..</p>
                     </div>
                 </div>
                 <div class="box carousel-item">
                     <img src="/img/hero/hero2.jpg" class="d-block img-responsive img-center" alt="Rololux tende">
                     <div class="carousel-caption"
-                         <p>Rolo komarnika, Plisiranih zavesa, Harmonika vrata, Dihtovanje prozora i vrata aluminijumskim lajsnama</p>
+                         <p>Rolo komarnika, plisiranih zavesa, harmonika vrata, dihtovanje prozora i vrata aluminijumskim lajsnama.</p>
                     </div>
                 </div>
                 <div class="box carousel-item">
@@ -104,7 +104,7 @@
             <div class="row row-content">
                 <div class="col-sm-12>
                     <article class="text-block-o-nama">
-                <p>Firma <strong>Rololux NS</strong> je osnovana 1950. godine kao samostalna zanatska radnja za proizvodnju i odrzavanje roletni. Firma je pocela sa radom u Novom Sadu, gde se uspesno i odrzala vec tri generacije. Danas smo, zahvaljujući uspešnim poslovanjem postali ozbiljno privatno preduzeće, koje se bavi proizvodnjom i ugradnjom proizvoda vezanih za enterijer i eksterijer vašeg doma. Vremenom smo došli do zavidnog nivoa proizvodnje korišćenjem savremenih tehnologija, modernizacijom opreme i alata u proizvodnji i praćenjem evropskih i svetskih trendova. Sve to je dovelo do povećanja obima proizvodnje a time i povećanja kvaliteta i proširenja palete proizvoda. Mozemo vam se pohvaliti kvalitetom, strucnim i profesionalnim osobljem, raznovrsnošću programa za opremanje kuća, stanova, poslovnoih prostora i sl...Većina naših proizvoda imaju mogućnostu ugradnje elektro motora i daljinskog upravljanja.</p>
+                <p>Firma <strong>Rololux NS</strong> je osnovana 1950. godine kao samostalna zanatska radnja za proizvodnju i održavanje roletni. Firma je počela sa radom u Novom Sadu, gde se uspšno i održala već tri generacije. Danas smo, zahvaljujući uspešnim poslovanjem postali ozbiljno privatno preduzeće, koje se bavi proizvodnjom i ugradnjom proizvoda vezanih za enterijer i eksterijer vašeg doma. Vremenom smo došli do zavidnog nivoa proizvodnje korišćenjem savremenih tehnologija, modernizacijom opreme i alata u proizvodnji i praćenjem evropskih i svetskih trendova. Sve to je dovelo do povećanja obima proizvodnje a time i povećanja kvaliteta i proširenja palete proizvoda. Možemo vam se pohvaliti kvalitetom, stručnim i profesionalnim osobljem, raznovrsnošću programa za opremanje kuća, stanova, poslovnoih prostora i sl...Većina naših proizvoda imaju mogućnostu ugradnje elektro motora i daljinskog upravljanja.</p>
                     </article>
                 </div>
             </div>
@@ -120,7 +120,7 @@
             <div class="row row-content">
                 <div class="col-sm-12 col-md-6 col-lg-6">
                     <article class="text-block1">
-                        <p>Roletne su jedan od najstarijih i najrasprostranjenijih zasenjivača prostora Ugrađuju se na prozore ili vrata, sa spoljašnje strane samog otvora. Roletne služe i kao zaštita same stolarije na koju se ugrađuju od vremenskih promena i nepogoda(sunce, kiša, grad, sneg..). Mogu biti <strong>plastične ili aluminijumske.</strong>
+                        <p>Roletne su jedan od najstarijih i najrasprostranjenijih zasenjivača prostora. Ugrađuju se na prozore ili vrata, sa spoljašnje strane samog otvora. Roletne služe i kao zaštita same stolarije na koju se ugrađuju od vremenskih promena i nepogoda(sunce, kiša, grad, sneg..). Mogu biti <strong>plastične ili aluminijumske.</strong>
                         </p>
                         <p>I jedne i druge klize gore-dole po vođicama koje mogu biti fiksirane ili na izbacivanje Kod fiksiranih vođica roletna ima mogućnost klizanja smo gore-dole. Za razliku od ovih, vođice na izbacivanje poseduju tzv. makaze koje omogućavaju izbacivanje donjeg dela roletne ka spolja.
                         </p>
@@ -169,10 +169,10 @@
                 </div>
                 <div class="col-sm-12">
                     <article class="text-blok2">
-                        <p>Kod <strong>aluminijumskih</strong> roletni vođice takođe mogu biti od aluminijuma i takav tip roletne se zove "total aluminijum". Ovaj tip roletni ima i giksirane vođice i mogućnosti izbacivanja ka spolja. Vođice se obično plastificiraju u boju same roletne.</p>
-                        <p><strong>Plastične</strong> roletne su jeftinije od aluminijumskih roletni ali se ne preporučuju za velike površine otvora koji se nalaze na sunčanim stranama objekata u koji se roletne ugrađjuj. Za razliku od plastičnih roletni, aluminijumske roletne su dužeg veka trajanja.</p>
-                        <p>Aluminijumske roletne se sastoje od aluminijumskih letvica šitine 3.9 cm. Svaka letvica je ispunjena poliureanom što predstavlja odličnu, kako zvučnu, tako i toplotnu izolaciju. Zastor za aluminijumske roletne postoji u nekoliko boja:</p>
-                        <ul class="dashed">
+                        <p>Kod <strong>aluminijumskih</strong> roletni vođice takođe mogu biti od aluminijuma i takav tip roletne se zove "total aluminijum". Ovaj tip roletni ima i fiksirane vođice i mogućnosti izbacivanja spolja. Vođice se obično plastificiraju u boju same roletne.</p>
+                        <p><strong>Plastične</strong> roletne su jeftinije od aluminijumskih roletni ali se ne preporučuju za velike površine otvora koji se nalaze na sunčanim stranama objekata u koji se roletne ugrađjuju. Za razliku od plastičnih roletni, aluminijumske roletne su dužeg veka trajanja.</p>
+                        <p>Aluminijumske roletne se sastoje od aluminijumskih letvica širine 3.9 cm. Svaka letvica je ispunjena poliureanom što predstavlja odličnu, kako zvučnu, tako i toplotnu izolaciju. Zastor za aluminijumske roletne postoji u nekoliko boja:</p>
+                        <ul>
                             <li>Bela,</li>
                             <li>Braon,</li>
                             <li>Siva,</li>
