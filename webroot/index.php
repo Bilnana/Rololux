@@ -542,8 +542,8 @@
                 <h1>Servisiranje</h1>
             </header>
             <div class="row row-content">
-                <div class="col-sm-12>
-                    <article class="text-block-o-nama">
+                <div class="col-sm-12">
+                    <article class="text-blok2">
                         <p>Vršimo sve vrste popravki i održavanja cele palete naših proizvoda. Za sve informacije, osećajte se slobodnim da nam se obratite na neke od naših brojeva telefona.</p>
                     </article>
                 </div>
