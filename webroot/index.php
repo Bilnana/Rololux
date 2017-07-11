@@ -4,7 +4,7 @@
 <head>
     <!-- Meta -->
     <meta charset="utf-8">
-    <meta name="description" content="Rololux NS je ozbiljno privatno preduzeće, koje se bavi proizvodnjom i ugradnjom proizvoda vezanih za enterijer i eksterijer vašeg doma. Izrada, popravka i održavanje aluminijumskih i PVC roletni, tendi, venecijanera, trakastih zavesa, rolo komarnika, plisiranih zavesa, harmonika vrata, Dihtovanje prozora i vrata aluminijumskim lajsnama.">
+    <meta name="description" content="Rololux NS je ozbiljno privatno preduzeće, koje se bavi proizvodnjom i ugradnjom proizvoda vezanih za enterijer i eksterijer vašeg doma. Izrada, popravka i održavanje aluminijumskih i PVC roletni, tendi, venecijanera, trakastih zavesa, rolo komarnika, plisiranih zavesa, harmonika vrata, dihtovanje prozora i vrata aluminijumskim lajsnama.">
     <meta name="keywords" content="Rololux, Rololux NS, Rololux Novi Sad, roletne, venecijaneri, tende, dihtovanje, komarnici, zavese, rolo zavese, trakaste zavese, adaptacija prostora">
     <meta name="Biljana Ljubojevic and Marko Marijanski" content="Rololux task">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -464,9 +464,9 @@
             <div class="row row-content">
                 <div class="col-sm-12">
                     <div class="galerija">
-                        <div class="slike"><a href="img/komarnici/komarnici1.jpg" data-lightbox="komarnici"><img src="img/komarnici/komarnici1.jpg" alt="komarnici1"></a></div>
-                        <div class="slike"><a href="img/komarnici/komarnici2.jpg" data-lightbox="komarnici"><img src="img/komarnici/komarnici2.jpg" alt="komarnici2"></a></div>
-                        <div class="slike"><a href="img/komarnici/komarnici3.jpg" data-lightbox="komarnici"><img src="img/komarnici/komarnici3.jpg" alt="komarnici3"></a></div>
+                        <div class="slike"><a href="/img/komarnici/komarnici1.jpg" data-lightbox="komarnici"><img src="/img/komarnici/komarnici1.jpg" alt="komarnici1"></a></div>
+                        <div class="slike"><a href="/img/komarnici/komarnici2.jpg" data-lightbox="komarnici"><img src="/img/komarnici/komarnici2.jpg" alt="komarnici2"></a></div>
+                        <div class="slike"><a href="/img/komarnici/komarnici3.jpg" data-lightbox="komarnici"><img src="/img/komarnici/komarnici3.jpg" alt="komarnici3"></a></div>
                     </div>
                 </div>
             </div>
@@ -557,9 +557,9 @@
             <div class="row row-content">
                 <div class="col-sm-12">
                     <div class="galerija">
-                        <div class="slike"><a href="img/adaptacija/adaptacija1.jpg" data-lightbox="adaptacija"><img src="img/adaptacija/adaptacija1.jpg" alt="adaptacija1"></a></div>
-                        <div class="slike"><a href="img/adaptacija/adaptacija2.jpg" data-lightbox="adaptacija"><img src="img/adaptacija/adaptacija2.jpg" alt="adaptacija2"></a></div>
-                        <div class="slike"><a href="img/adaptacija/adaptacija3.jpg" data-lightbox="adaptacija"><img src="img/adaptacija/adaptacija1.jpg" alt="adaptacija3"></a></div>
+                        <div class="slike"><a href="/img/adaptacija/adaptacija1.jpg" data-lightbox="adaptacija"><img src="/img/adaptacija/adaptacija1.jpg" alt="adaptacija1"></a></div>
+                        <div class="slike"><a href="/img/adaptacija/adaptacija2.jpg" data-lightbox="adaptacija"><img src="/img/adaptacija/adaptacija2.jpg" alt="adaptacija2"></a></div>
+                        <div class="slike"><a href="/img/adaptacija/adaptacija3.jpg" data-lightbox="adaptacija"><img src="/img/adaptacija/adaptacija1.jpg" alt="adaptacija3"></a></div>
                     </div>
                 </div>
             </div>
