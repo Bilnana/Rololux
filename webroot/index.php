@@ -104,7 +104,7 @@
             <div class="row row-content">
                 <div class="col-sm-12>
                     <article class="text-block-o-nama">
-                <p>Firma <strong>Rololux NS</strong> je osnovana 1950. godine kao samostalna zanatska radnja za proizvodnju i održavanje roletni. Firma je počela sa radom u Novom Sadu, gde se uspšno i održala već tri generacije. Danas smo, zahvaljujući uspešnim poslovanjem postali ozbiljno privatno preduzeće, koje se bavi proizvodnjom i ugradnjom proizvoda vezanih za enterijer i eksterijer vašeg doma. Vremenom smo došli do zavidnog nivoa proizvodnje korišćenjem savremenih tehnologija, modernizacijom opreme i alata u proizvodnji i praćenjem evropskih i svetskih trendova. Sve to je dovelo do povećanja obima proizvodnje a time i povećanja kvaliteta i proširenja palete proizvoda. Možemo vam se pohvaliti kvalitetom, stručnim i profesionalnim osobljem, raznovrsnošću programa za opremanje kuća, stanova, poslovnoih prostora i sl...Većina naših proizvoda imaju mogućnostu ugradnje elektro motora i daljinskog upravljanja.</p>
+                        <p>Firma <strong>Rololux NS</strong> je osnovana 1950. godine kao samostalna zanatska radnja za proizvodnju i održavanje roletni. Firma je počela sa radom u Novom Sadu, gde se uspšno i održala već tri generacije. Danas smo, zahvaljujući uspešnim poslovanjem postali ozbiljno privatno preduzeće, koje se bavi proizvodnjom i ugradnjom proizvoda vezanih za enterijer i eksterijer vašeg doma. Vremenom smo došli do zavidnog nivoa proizvodnje korišćenjem savremenih tehnologija, modernizacijom opreme i alata u proizvodnji i praćenjem evropskih i svetskih trendova. Sve to je dovelo do povećanja obima proizvodnje a time i povećanja kvaliteta i proširenja palete proizvoda. Možemo vam se pohvaliti kvalitetom, stručnim i profesionalnim osobljem, raznovrsnošću programa za opremanje kuća, stanova, poslovnoih prostora i sl...Većina naših proizvoda imaju mogućnostu ugradnje elektro motora i daljinskog upravljanja.</p>
                     </article>
                 </div>
             </div>
@@ -553,7 +553,7 @@
 
     <!-- Adaptacija prostora -->
     <section id="rololux9">
-        <div class="o-nama-box">
+        <div class="roletne">
             <header class="header-content">
                 <h1>Adaptacija prostora</h1>
             </header>
@@ -571,7 +571,7 @@
 
     <!-- Kontakt -->
     <section id="kontakt">
-        <div class="roletne">
+        <div class="o-nama-box">
             <div class="contact-map row row-content">
                 <section class="bg-contact col-sm-12 col-md-6 col-lg-6">
                     <adress class="contact-details">
