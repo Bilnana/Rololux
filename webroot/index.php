@@ -460,7 +460,7 @@
 
     <!-- Komarnici -->
     <section id="rololux6">
-        <div class="o-nama-box">
+        <div class="komarnici">
             <header class="header-content">
                 <h1>Komarnici</h1>
             </header>
