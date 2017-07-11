@@ -520,7 +520,7 @@
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-6">
                     <article class="text-blok1">
-                        <p>Dihtovanje prozora i vrata aluminijumskim lajsnama</p>
+                        <p>Dihtovanje prozora i vrata aluminijumskim lajsnama:</p>
                         <ul>
                             <li>95% zaštita od vetra</li>
                             <li>80% zaštite od buke i prašine</li>
@@ -544,10 +544,10 @@
             <div class="row row-content">
                 <div class="col-sm-12>
                     <article class="text-block-o-nama">
-                <p>Vršimo sve vrste popravki i održavanja cele palete naših proizvoda. Za sve informacije, osećajte se slobodnim da nam se obratite na neke od naših brojeva telefona. </p>
-                </article>
+                        <p>Vršimo sve vrste popravki i održavanja cele palete naših proizvoda. Za sve informacije, osećajte se slobodnim da nam se obratite na neke od naših brojeva telefona.</p>
+                    </article>
+                </div>
             </div>
-        </div>
         </div>
     </section>
 
