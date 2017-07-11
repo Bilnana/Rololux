@@ -553,7 +553,7 @@
 
     <!-- Adaptacija prostora -->
     <section id="rololux9">
-        <div class="roletne">
+        <div class="adaptacija">
             <header class="header-content">
                 <h1>Adaptacija prostora</h1>
             </header>
