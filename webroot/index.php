@@ -2,11 +2,14 @@
 
 <html lang="sr-RS-latin">
 <head>
+    <!-- Meta -->
     <meta charset="utf-8">
+    <meta name="description" content="Rololux NS je ozbiljno privatno preduzeće, koje se bavi proizvodnjom i ugradnjom proizvoda vezanih za enterijer i eksterijer vašeg doma. Izrada, popravka i održavanje aluminijumskih i PVC roletni, tendi, venecijanera, trakastih zavesa, rolo komarnika, plisiranih zavesa, harmonika vrata, dihtovanje prozora i vrata aluminijumskim lajsnama.">
+    <meta name="keywords" content="Rololux, Rololux NS, Rololux Novi Sad, roletne, venecijaneri, tende, dihtovanje, komarnici, zavese, rolo zavese, trakaste zavese, adaptacija prostora">
+    <meta name="Biljana Ljubojević and Marko Marijanski" content="Rololux task">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rololux</title>
-    <meta name="Biljana Ljubojevic" content="Task">
-    <!-- CSS file -->
+    <!-- CSS -->
     <link rel="stylesheet" href="/css/styles.css" type="text/css">
     <link rel="stylesheet" href="/css/lightbox.css" type="text/css">
     <link rel="stylesheet" href="/css/font-awesome.css" type="text/css">
@@ -14,8 +17,8 @@
 
 <body>
 
-<!-- NAVIGATION -->
 <div class="container">
+    <!-- Navigation -->
     <nav class="navbar sticky-top navbar-inverse navbar-toggleable-md container">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarmain" aria-controls="navbarsExampleContainer" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -52,10 +55,7 @@
             </div>
     </nav>
 
-    <!-- NAVIGATION END -->
-
-    <!-- HEADER SLIDER -->
-
+    <!-- Header slider -->
     <header class="mainhead">
         <div id="crausel-big" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
@@ -93,10 +93,7 @@
         </div>
     </header>
 
-    <!-- HEADER SLIDER END -->
-
-    <!-- SECTION O NAMA -->
-
+    <!-- O nama -->
     <section id="o-nama">
         <div class="o-nama-box">
             <header class="header-content">
@@ -111,9 +108,8 @@
             </div>
         </div>
     </section>
-    <!-- SECTION O NAMA END -->
 
-    <!-- SECTION ROLETNE -->
+    <!-- Roletne -->
     <section id="rololux1">
         <div class="roletne">
             <header class="header-content">
@@ -186,9 +182,8 @@
             </div>
         </div>
     </section>
-    <!-- END SECTION ROLETNE -->
 
-    <!-- SECTION TENDE -->
+    <!-- Tende -->
     <section id="rololux2">
         <div class="tende">
             <header class="header-content">
@@ -267,9 +262,8 @@
             </div>
         </div>
     </section>
-    <!--END SECTION TENDE -->
 
-    <!--SECTION VENECIJANERI -->
+    <!--Venecijaneri -->
     <section id="rololux3">
         <div class="venecijaneri">
             <header class="header-content">
@@ -337,9 +331,8 @@
             </div>
         </div>
     </section>
-    <!--SECTION VENECIJANERI -->
 
-    <!--SECTION ROLO ZAVESE -->
+    <!--Rolo zavese -->
     <section id="rololux4">
         <div class="rolozavese">
             <header class="header-content">
@@ -398,9 +391,8 @@
         </div>
         </div>
     </section>
-    <!--SECTION ROLO ZAVESE -->
 
-    <!--SECTION trakaste ZAVESE -->
+    <!-- Trakaste zavese -->
      <section id="rololux5">
         <div class="trakaste">
             <header class="header-content">
@@ -462,9 +454,8 @@
             </div>
         </div>
     </section>
-    <!-- SECTION trakaste ZAVESE END -->
 
-    <!-- SECTION KOMARNICI -->
+    <!-- Komarnici -->
     <section id="rololux6">
         <div class="o-nama-box">
             <header class="header-content">
@@ -473,17 +464,16 @@
             <div class="row row-content">
                 <div class="col-sm-12">
                     <div class="galerija">
-                        <div class="slike"><a href="img/komarnici/komarnici1.jpg" data-lightbox="komarnici"><img src="img/komarnici/komarnici1.jpg" alt="komarnici1"></a></div>
-                        <div class="slike"><a href="img/komarnici/komarnici2.jpg" data-lightbox="komarnici"><img src="img/komarnici/komarnici2.jpg" alt="komarnici2"></a></div>
-                        <div class="slike"><a href="img/komarnici/komarnici3.jpg" data-lightbox="komarnici"><img src="img/komarnici/komarnici3.jpg" alt="komarnici3"></a></div>
+                        <div class="slike"><a href="/img/komarnici/komarnici1.jpg" data-lightbox="komarnici"><img src="/img/komarnici/komarnici1.jpg" alt="komarnici1"></a></div>
+                        <div class="slike"><a href="/img/komarnici/komarnici2.jpg" data-lightbox="komarnici"><img src="/img/komarnici/komarnici2.jpg" alt="komarnici2"></a></div>
+                        <div class="slike"><a href="/img/komarnici/komarnici3.jpg" data-lightbox="komarnici"><img src="/img/komarnici/komarnici3.jpg" alt="komarnici3"></a></div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- SECTION KOMARNICI END -->
 
-    <!-- SECTION DIHTOVANJE -->
+    <!-- Dihtovanje -->
     <section id="rololux7">
         <div class="dihtovanje">
             <header class="header-content">
@@ -541,10 +531,8 @@
             </div>
         </div>
     </section>
-    <!-- SECTION DIHTOVANJE END -->
 
-
-    <!-- SECTION SERVISIRANJE -->
+    <!-- Servisiranje -->
     <section id="rololux8">
         <div class="o-nama-box">
             <header class="header-content">
@@ -559,10 +547,8 @@
         </div>
         </div>
     </section>
-    <!-- SECTION SERVISIRANJE END -->
 
-    <!-- SECTION ADAPTACIJA PROSTORA -->
-
+    <!-- Adaptacija prostora -->
     <section id="rololux9">
         <div class="o-nama-box">
             <header class="header-content">
@@ -571,17 +557,16 @@
             <div class="row row-content">
                 <div class="col-sm-12">
                     <div class="galerija">
-                        <div class="slike"><a href="img/adaptacija/adaptacija1.jpg" data-lightbox="adaptacija"><img src="img/adaptacija/adaptacija1.jpg" alt="adaptacija1"></a></div>
-                        <div class="slike"><a href="img/adaptacija/adaptacija2.jpg" data-lightbox="adaptacija"><img src="img/adaptacija/adaptacija2.jpg" alt="adaptacija2"></a></div>
-                        <div class="slike"><a href="img/adaptacija/adaptacija3.jpg" data-lightbox="adaptacija"><img src="img/adaptacija/adaptacija1.jpg" alt="adaptacija3"></a></div>
+                        <div class="slike"><a href="/img/adaptacija/adaptacija1.jpg" data-lightbox="adaptacija"><img src="/img/adaptacija/adaptacija1.jpg" alt="adaptacija1"></a></div>
+                        <div class="slike"><a href="/img/adaptacija/adaptacija2.jpg" data-lightbox="adaptacija"><img src="/img/adaptacija/adaptacija2.jpg" alt="adaptacija2"></a></div>
+                        <div class="slike"><a href="/img/adaptacija/adaptacija3.jpg" data-lightbox="adaptacija"><img src="/img/adaptacija/adaptacija1.jpg" alt="adaptacija3"></a></div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- SECTION ADAPTACIJA PROSTORA END -->
-
+    <!-- Kontakt -->
     <section id="kontakt">
         <div class="roletne">
             <div class="contact-map row row-content">
@@ -604,8 +589,8 @@
             </div>
         </div>
     </section>
-    <!-- SECTION CONTACT -->
 
+    <!-- Footer -->
     <footer class="footer">
         <div class="row">
             <div class="col-sm-3">
@@ -630,15 +615,17 @@
                 </ul>
             </div>
             <div class="author col-sm-12">
-                <p>&copy; Mare & Bilja 2017</p>
+                <p>Copyright &copy; <a href="https://gitlab.com/marKoZz94">Marko Marijanski</a> & <a href="https://gitlab.com/Bilja">Biljana Ljubojević 2017</a></p>
             </div>
         </div>
     </footer>
 </div>
 
+    <!-- JS -->
 <script src="/js/jquery.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/local-javascript.js"></script>
 <script src="/js/lightbox.js"></script>
+
 </body>
 </html>
