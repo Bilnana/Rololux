@@ -36,9 +36,7 @@
                         <a class="nav-link" href="#o-nama" data-target=".navbar-collapse.in">O Nama</a>
                     </li>
                     <li class="nav-item" >
-                        <a class="nav-link">
-                            Proizvodi
-                        </a>
+                        <a class="nav-link">Proizvodi</a>
                         <ul class="submenu">
                             <li data-toggle="collapse" data-target=".navbar-collapse.show"><a href="#rololux1">Roletne</a></li>
                             <li data-toggle="collapse" data-target=".navbar-collapse.show"><a href="#rololux2">Tende</a></li>
