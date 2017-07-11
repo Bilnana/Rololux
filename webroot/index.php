@@ -249,13 +249,13 @@
                             <li>Kupolaste</li>
                             <li>Samostojeće</li>
                             <li>Fiksne</li>
-                            <li>Ra ručnim namotavanjem</li>
+                            <li>Sa ručnim namotavanjem</li>
                             <li>Sa električnim namotavanjem</li>
                         </ul>
                         <p>Cena zavisi od veličine, vrste i načina namotavanja, materijala, a:
                         </p>
                         <ul>
-                            <li>Kvalitet, sigurnost i izuzetan estetski utisak može se postići ugradnjom naših tendi</li>
+                            <li>Kvalitet, sigurnost i izuzetan estetski utisak može se postići ugradnjom naših tendi.</li>
                             <li>Raznovrsnim izborom boja i dezena platna omogućićemo najprikladnije rešenje za vaš ambijent.</li>
                             <li>Svi tipovi tendi podjednako dobro i kvalitetno štite, kako od sunca, tako i od kiše.</li>
                         </ul>
@@ -275,13 +275,13 @@
             <div class="row row-content">
                 <div class="col-sm-12 col-md-6 col-lg-6">
                     <article class="text-block1">
-                        <p>Popularna venecijaner zavesa od legiranog aluminijuma se lako održava Odaberite boju i dezen koji se uklapa sa nameštajem i bojom zidova Venecijaneri se ugrađuju sa unutrašnje strane prozora uz samo staklo ali nepostoji mogućnost njegovog oštećenja.
+                        <p>Popularna venecijaner zavesa od legiranog aluminijuma se lako održava. Odaberite boju i dezen koji se uklapa sa nameštajem i bojom zidova. Venecijaneri se ugrađuju sa unutrašnje strane prozora uz samo staklo ali nepostoji mogućnost njegovog oštećenja.
                         </p>
                         <p>Drvena venecijaner zavesa stvara intimnu atmosferu i predstavlja ukras visoke estetetske vrednosti.
                         </p>
                         <P>Aluminijumski venecijaneri se izrađuju u velikom spektru boja i dezena. Kupac može da bira između tekstura mramora, granita, drveta i drugih prirodnih materijala. Posebno zanimljivu igru svetlosti i senke stvaraju venecijaneri sa perforiranom površinom.</P>
-                        <P>Trake venecijanera se pomeraju, tj. otvaraju i zatvaraju pomoću plastične palice Pomeranjem palice okrećemo trake i određujemo količinu svetlosti koju puštamo u prostoriju. Venecijaneri se mogu podizati i spuštati.</P>
-                        <P>Održavanje venecijanera je veoma lako i jednostavno Peru se identično kao i prozori.</P>
+                        <P>Trake venecijanera se pomeraju, tj. otvaraju i zatvaraju pomoću plastične palice. Pomeranjem palice okrećemo trake i određujemo količinu svetlosti koju puštamo u prostoriju. Venecijaneri se mogu podizati i spuštati.</P>
+                        <P>Održavanje venecijanera je veoma lako i jednostavno. Peru se identično kao i prozori.</P>
                     </article>
                 </div>
                 <div class="slider2 col-sm-12 col-md-6 col-lg-6">
