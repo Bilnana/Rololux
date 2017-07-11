@@ -537,7 +537,7 @@
 
     <!-- Servisiranje -->
     <section id="rololux8">
-        <div class="o-nama-box">
+        <div class="servisiranje">
             <header class="header-content">
                 <h1>Servisiranje</h1>
             </header>
