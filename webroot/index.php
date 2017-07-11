@@ -6,9 +6,9 @@
     <meta charset="utf-8">
     <meta name="description" content="Rololux NS je ozbiljno privatno preduzeće, koje se bavi proizvodnjom i ugradnjom proizvoda vezanih za enterijer i eksterijer vašeg doma. Izrada, popravka i održavanje aluminijumskih i PVC roletni, tendi, venecijanera, trakastih zavesa, rolo komarnika, plisiranih zavesa, harmonika vrata, Dihtovanje prozora i vrata aluminijumskim lajsnama.">
     <meta name="keywords" content="Rololux, Rololux NS, Rololux Novi Sad, roletne, venecijaneri, tende, dihtovanje, komarnici, zavese, rolo zavese, trakaste zavese, adaptacija prostora">
+    <meta name="Biljana Ljubojevic and Marko Marijanski" content="Rololux task">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rololux</title>
-    <meta name="Biljana Ljubojevic" content="Task">
     <!-- CSS -->
     <link rel="stylesheet" href="/css/styles.css" type="text/css">
     <link rel="stylesheet" href="/css/lightbox.css" type="text/css">
