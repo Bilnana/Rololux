@@ -112,10 +112,10 @@
     </section>
 
     <!-- Roletne -->
-    <section >
+    <section id="rololux1">
         <div class="roletne">
             <header class="header-content">
-                <h1 id="rololux1">Roletne</h1>
+                <h1>Roletne</h1>
             </header>
             <div class="row row-content">
                 <div class="col-sm-12 col-md-6 col-lg-6">
@@ -157,11 +157,11 @@
                                 <img src="/img/roletne/roletne9.jpg" class="img-center" src="..." alt="Third slide" alt="roletne9">
                             </div>
                         </div>
-                        <a class="carousel-control-prev" href="#crausel1" role="button" data-slide="prev">
+                        <a class="carousel-control-prev" data-target="#crausel1" role="button" data-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                             <span class="sr-only">Previous</span>
                         </a>
-                        <a class="carousel-control-next" href="#crausel1" role="button" data-slide="next">
+                        <a class="carousel-control-next" data-target="#crausel1" role="button" data-slide="next">
                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                             <span class="sr-only">Next</span>
                         </a>
@@ -321,11 +321,11 @@
                                 <img src="/img/venecijaneri/venecijaneri11.jpg" class="img-center" src="..." alt="Second slide" alt="venecijaneri11">
                             </div>
                         </div>
-                        <a class="carousel-control-prev" href="#crausel3" role="button" data-slide="prev">
+                        <a class="carousel-control-prev" data-target="#crausel3" role="button" data-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                             <span class="sr-only">Previous</span>
                         </a>
-                        <a class="carousel-control-next" href="#crausel3" role="button" data-slide="next">
+                        <a class="carousel-control-next" data-target="#crausel3" role="button" data-slide="next">
                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                             <span class="sr-only">Next</span>
                         </a>
@@ -444,11 +444,11 @@
                                 <img src="/img/trakastezavese/trakastezavese11.jpg" class="img-center" src="..." alt="Second slide" alt="trakaste zavese11">
                             </div>
                         </div>
-                        <a class="carousel-control-prev" href="#crausel5" role="button" data-slide="prev">
+                        <a class="carousel-control-prev" data-target="#crausel5" role="button" data-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                             <span class="sr-only">Previous</span>
                         </a>
-                        <a class="carousel-control-next" href="#crausel5" role="button" data-slide="next">
+                        <a class="carousel-control-next" data-target="#crausel5" role="button" data-slide="next">
                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                             <span class="sr-only">Next</span>
                         </a>
