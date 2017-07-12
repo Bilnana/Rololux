@@ -341,49 +341,59 @@
             <header class="header-content">
                 <h1>Rolo zavese</h1>
             </header>
-        <div class="row row-content">
+
             <!-- Gallery  -->
             <div id="galery" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
                     <li data-target="#galery" data-slide-to="0" class="active"></li>
                     <li data-target="#galery" data-slide-to="1"></li>
                     <li data-target="#galery" data-slide-to="2"></li>
+                    <li data-target="#galery" data-slide-to="3"></li>
                 </ol>
                 <!-- Carousel items -->
-                <div class="carousel-inner col-sm-12">
+                <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese1.jpg" class="img-fluid" alt="rolo zavese1"></a>
+                        <div class="col-sm-6 box">
+                            <a href="/img/rolozavese/rolozavese1.jpg" data-lightbox="rolozavese"><img src="/img/rolozavese/rolozavese1.jpg" class="img-fluid" alt="rolo zavese1"></a>
                         </div>
-                        <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese2.jpg" class="img-fluid" alt="rolo zavese2"></a>
+                        <div class="col-sm-6 box">
+                            <a href="/img/rolozavese/rolozavese2.jpg" data-lightbox="rolozavese"><img src="/img/rolozavese/rolozavese2.jpg" class="img-fluid" alt="rolo zavese2"></a>
                         </div>
-                        <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese3.jpg" class="img-fluid" alt="rolo zavese3"></a>
-                        </div>
+
                     </div>
                     <!--/item-->
                     <div class="carousel-item">
-                        <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese4.jpg" class="img-fluid" alt="rolo zavese4"></a>
+                        <div class="col-sm-6 box">
+                            <a href="/img/rolozavese/rolozavese4.jpg" data-lightbox="rolozavese"><img src="/img/rolozavese/rolozavese4.jpg" class="img-fluid" alt="rolo zavese4"></a>
                         </div>
-                        <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese5.jpg" class="img-fluid" alt="rolo zavese5"></a>
+                        <div class="col-sm-6 box">
+                            <a href="/img/rolozavese/rolozavese5.jpg" data-lightbox="rolozavese"><img src="/img/rolozavese/rolozavese5.jpg" class="img-fluid" alt="rolo zavese5"></a>
                         </div>
-                        <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese6.jpg" class="img-fluid" alt="rolo zavese6"></a>
-                        </div>
+
                     </div>
                     <!--/item-->
                     <div class="carousel-item">
-                        <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese7.jpg" class="img-fluid" alt="rolo zavese7"></a>
+                        <div class="col-sm-6 box">
+                            <a href="/img/rolozavese/rolozavese7.jpg" data-lightbox="rolozavese"><img src="/img/rolozavese/rolozavese7.jpg" class="img-fluid" alt="rolo zavese7"></a>
                         </div>
-                        <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese8.jpg" class="img-fluid" alt="rolo zavese8"></a>
+                        <div class="col-sm-6 box">
+                            <a href="/img/rolozavese/rolozavese8.jpg" data-lightbox="rolozavese"><img src="/img/rolozavese/rolozavese8.jpg" class="img-fluid" alt="rolo zavese8"></a>
                         </div>
-                        <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese9.jpg" class="img-fluid" alt="rolo zavese9"></a>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="col-sm-6 box">
+                            <a href="/img/rolozavese/rolozavese3.jpg" data-lightbox="rolozavese"><img src="/img/rolozavese/rolozavese3.jpg" class="img-fluid" alt="rolo zavese3"></a>
+                        </div>
+                        <div class="col-sm-6 box">
+                            <a href="/img/rolozavese/rolozavese9.jpg" data-lightbox="rolozavese"><img src="/img/rolozavese/rolozavese9.jpg" class="img-fluid" alt="rolo zavese9"></a>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="col-sm-6 box">
+                            <a href="/img/rolozavese/rolozavese6.jpg" data-lightbox="rolozavese"><img src="/img/rolozavese/rolozavese6.jpg" class="img-fluid" alt="rolo zavese3"></a>
+                        </div>
+                        <div class="col-sm-6 box">
+                            <a href="/img/rolozavese/rolozavese4.jpg" data-lightbox="rolozavese"><img src="/img/rolozavese/rolozavese4.jpg" class="img-fluid" alt="rolo zavese9"></a>
                         </div>
                     </div>
                     <!--/item-->
@@ -391,7 +401,6 @@
                 <!--/carousel-inner-->
             </div>
             <!-- End Gallery  -->
-        </div>
         </div>
     </section>
 
