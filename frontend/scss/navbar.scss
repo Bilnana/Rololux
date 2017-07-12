@@ -45,6 +45,10 @@
   font-family:'Amble-Bold';
   font-size: 22px;
   transition: all 0.3s ease 0s;
+  @include media-breakpoint-down(xs) {
+    font-size: 18px;
+  }
+
 }
 .navbar ul a:hover{
   transform: scale(1.1);
@@ -78,7 +82,7 @@
   background: url(/img/navpic.jpg);
   padding-top: 5px;
   padding-bottom: 5px;
-  min-width: 200px;
+  min-width: 250px;
   -webkit-transform: rotateY(90deg);
   -moz-transform: rotateY(90deg);
   -ms-transform: rotateY(90deg);
@@ -90,6 +94,12 @@
   -ms-transition: opacity .4s, -ms-transform .5s;
   -o-transition: opacity .4s, -o-transform .5s;
   transition: opacity .4s, transform .5s;
+  color: $white;
+  @include media-breakpoint-down(xs) {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    min-width: 190px;
+  }
 }
 
 .navbar-nav > li:hover .submenu li, .navbar-nav > li:focus .submenu li {
