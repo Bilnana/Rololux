@@ -21,8 +21,8 @@
 
 <div class="container">
     <!-- Navigation -->
-    <nav class="navbar sticky-top navbar-inverse navbar-toggleable-md container">
-    <div id="navbar" class="navbar sticky-top navbar-inverse navbar-toggleable-md container">
+    <nav class="navbar fixed-top navbar-inverse navbar-toggleable-md">
+        <div class="container box">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarmain" aria-controls="navbarsExampleContainer" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -30,7 +30,7 @@
             <div class="collapse navbar-collapse justify-content-end" id="navbarmain">
                 <ul class="navbar-nav">
                     <li class="nav-item active" data-toggle="collapse" data-target=".navbar-collapse.show">
-                        <a class="nav-link" href="#">Početna</a>
+                        <a class="nav-link" href="#mainhead">Početna</a>
                     </li>
                     <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
                         <a class="nav-link" href="#o-nama" data-target=".navbar-collapse.in">O Nama</a>
@@ -54,11 +54,11 @@
                     </li>
                 </ul>
             </div>
-    </div>
+        </div>
     </nav>
 
     <!-- Header slider -->
-    <header class="mainhead">
+    <header id="mainhead" class="mainhead">
         <div id="crausel-big" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-target="#crausel-big" data-slide-to="0" class="active"></li>
@@ -112,10 +112,10 @@
     </section>
 
     <!-- Roletne -->
-    <section >
+    <section id="rololux1">
         <div class="roletne">
             <header class="header-content">
-                <h1 id="rololux1">Roletne</h1>
+                <h1>Roletne</h1>
             </header>
             <div class="row row-content">
                 <div class="col-sm-12 col-md-6 col-lg-6">
@@ -157,11 +157,11 @@
                                 <img src="/img/roletne/roletne9.jpg" class="img-center" src="..." alt="Third slide" alt="roletne9">
                             </div>
                         </div>
-                        <a class="carousel-control-prev" href="#crausel1" role="button" data-slide="prev">
+                        <a class="carousel-control-prev" data-target="#crausel1" role="button" data-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                             <span class="sr-only">Previous</span>
                         </a>
-                        <a class="carousel-control-next" href="#crausel1" role="button" data-slide="next">
+                        <a class="carousel-control-next" data-target="#crausel1" role="button" data-slide="next">
                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                             <span class="sr-only">Next</span>
                         </a>
@@ -321,11 +321,11 @@
                                 <img src="/img/venecijaneri/venecijaneri11.jpg" class="img-center" src="..." alt="Second slide" alt="venecijaneri11">
                             </div>
                         </div>
-                        <a class="carousel-control-prev" href="#crausel3" role="button" data-slide="prev">
+                        <a class="carousel-control-prev" data-target="#crausel3" role="button" data-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                             <span class="sr-only">Previous</span>
                         </a>
-                        <a class="carousel-control-next" href="#crausel3" role="button" data-slide="next">
+                        <a class="carousel-control-next" data-target="#crausel3" role="button" data-slide="next">
                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                             <span class="sr-only">Next</span>
                         </a>
@@ -341,49 +341,59 @@
             <header class="header-content">
                 <h1>Rolo zavese</h1>
             </header>
-        <div class="row row-content">
+
             <!-- Gallery  -->
             <div id="galery" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
                     <li data-target="#galery" data-slide-to="0" class="active"></li>
                     <li data-target="#galery" data-slide-to="1"></li>
                     <li data-target="#galery" data-slide-to="2"></li>
+                    <li data-target="#galery" data-slide-to="3"></li>
                 </ol>
                 <!-- Carousel items -->
-                <div class="carousel-inner col-sm-12">
+                <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese1.jpg" class="img-fluid" alt="rolo zavese1"></a>
+                        <div class="col-sm-6 box">
+                            <a href="/img/rolozavese/rolozavese1.jpg" data-lightbox="rolozavese"><img src="/img/rolozavese/rolozavese1.jpg" class="img-fluid" alt="rolo zavese1"></a>
                         </div>
-                        <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese2.jpg" class="img-fluid" alt="rolo zavese2"></a>
+                        <div class="col-sm-6 box">
+                            <a href="/img/rolozavese/rolozavese2.jpg" data-lightbox="rolozavese"><img src="/img/rolozavese/rolozavese2.jpg" class="img-fluid" alt="rolo zavese2"></a>
                         </div>
-                        <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese3.jpg" class="img-fluid" alt="rolo zavese3"></a>
-                        </div>
+
                     </div>
                     <!--/item-->
                     <div class="carousel-item">
-                        <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese4.jpg" class="img-fluid" alt="rolo zavese4"></a>
+                        <div class="col-sm-6 box">
+                            <a href="/img/rolozavese/rolozavese4.jpg" data-lightbox="rolozavese"><img src="/img/rolozavese/rolozavese4.jpg" class="img-fluid" alt="rolo zavese4"></a>
                         </div>
-                        <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese5.jpg" class="img-fluid" alt="rolo zavese5"></a>
+                        <div class="col-sm-6 box">
+                            <a href="/img/rolozavese/rolozavese5.jpg" data-lightbox="rolozavese"><img src="/img/rolozavese/rolozavese5.jpg" class="img-fluid" alt="rolo zavese5"></a>
                         </div>
-                        <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese6.jpg" class="img-fluid" alt="rolo zavese6"></a>
-                        </div>
+
                     </div>
                     <!--/item-->
                     <div class="carousel-item">
-                        <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese7.jpg" class="img-fluid" alt="rolo zavese7"></a>
+                        <div class="col-sm-6 box">
+                            <a href="/img/rolozavese/rolozavese7.jpg" data-lightbox="rolozavese"><img src="/img/rolozavese/rolozavese7.jpg" class="img-fluid" alt="rolo zavese7"></a>
                         </div>
-                        <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese8.jpg" class="img-fluid" alt="rolo zavese8"></a>
+                        <div class="col-sm-6 box">
+                            <a href="/img/rolozavese/rolozavese8.jpg" data-lightbox="rolozavese"><img src="/img/rolozavese/rolozavese8.jpg" class="img-fluid" alt="rolo zavese8"></a>
                         </div>
-                        <div class="col-sm-4 box">
-                            <a href="#x"><img src="/img/rolozavese/rolozavese9.jpg" class="img-fluid" alt="rolo zavese9"></a>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="col-sm-6 box">
+                            <a href="/img/rolozavese/rolozavese3.jpg" data-lightbox="rolozavese"><img src="/img/rolozavese/rolozavese3.jpg" class="img-fluid" alt="rolo zavese3"></a>
+                        </div>
+                        <div class="col-sm-6 box">
+                            <a href="/img/rolozavese/rolozavese9.jpg" data-lightbox="rolozavese"><img src="/img/rolozavese/rolozavese9.jpg" class="img-fluid" alt="rolo zavese9"></a>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="col-sm-6 box">
+                            <a href="/img/rolozavese/rolozavese6.jpg" data-lightbox="rolozavese"><img src="/img/rolozavese/rolozavese6.jpg" class="img-fluid" alt="rolo zavese3"></a>
+                        </div>
+                        <div class="col-sm-6 box">
+                            <a href="/img/rolozavese/rolozavese4.jpg" data-lightbox="rolozavese"><img src="/img/rolozavese/rolozavese4.jpg" class="img-fluid" alt="rolo zavese9"></a>
                         </div>
                     </div>
                     <!--/item-->
@@ -391,7 +401,6 @@
                 <!--/carousel-inner-->
             </div>
             <!-- End Gallery  -->
-        </div>
         </div>
     </section>
 
@@ -444,11 +453,11 @@
                                 <img src="/img/trakastezavese/trakastezavese11.jpg" class="img-center" src="..." alt="Second slide" alt="trakaste zavese11">
                             </div>
                         </div>
-                        <a class="carousel-control-prev" href="#crausel5" role="button" data-slide="prev">
+                        <a class="carousel-control-prev" data-target="#crausel5" role="button" data-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                             <span class="sr-only">Previous</span>
                         </a>
-                        <a class="carousel-control-next" href="#crausel5" role="button" data-slide="next">
+                        <a class="carousel-control-next" data-target="#crausel5" role="button" data-slide="next">
                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                             <span class="sr-only">Next</span>
                         </a>
