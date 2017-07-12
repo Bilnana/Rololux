@@ -57,7 +57,6 @@
     font-family: 'Amble-Regular';
     font-size: 16px;
 }
-
 .o-nama-box h1{
   font-family:'Big-John';
   font-size: 30px;
@@ -90,12 +89,6 @@
   }
 }
 
-.header-content h1{
-  padding: 20px;
-  @include media-breakpoint-down(xs) {
-    font-size: 30px;
-  }
-}
 
 .slider1 .carousel-inner  .box {
     padding-left: 0;
@@ -142,12 +135,7 @@
   font-family:'Big-John';
   font-size: 30px;
 }
-.header-content{
-  margin-top: 30px;
-  margin-bottom: 30px;
-  text-align: center;
-  font-family:'Amble-Bold';
-}
+
 .slider2 .carousel-inner  .box {
   padding-left: 0;
   padding-right: 0;
