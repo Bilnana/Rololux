@@ -6,6 +6,11 @@
     width: 100%;
   }
 }
+.navbar .box{
+  @include media-breakpoint-down(xs) {
+    width: 100%;
+  }
+}
 .navbar li{
   padding-left: 30px;
 }
