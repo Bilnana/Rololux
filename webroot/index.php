@@ -68,25 +68,25 @@
             </ol>
             <div class="carousel-inner" role="listbox">
                 <div class="box carousel-item active">
-                    <img src="/img/hero/hero1.jpg" class="d-block img-responsive img-center" alt="Rololux roletne">
+                    <img src="/img/hero/hero1.jpg" class="d-block img-fluid img-center" alt="Rololux roletne">
                     <div class="carousel-caption"
                         <p>Izrada, popravka i održavanje: aluminijumskih i PVC roletni, tendi, venecijanera, trakastih zavesa..</p>
                     </div>
                 </div>
                 <div class="box carousel-item">
-                    <img src="/img/hero/hero2.jpg" class="d-block img-responsive img-center" alt="Rololux tende">
+                    <img src="/img/hero/hero2.jpg" class="d-block img-fluid img-center" alt="Rololux tende">
                     <div class="carousel-caption"
                          <p>Rolo komarnika, plisiranih zavesa, harmonika vrata, dihtovanje prozora i vrata aluminijumskim lajsnama.</p>
                     </div>
                 </div>
                 <div class="box carousel-item">
-                    <img src="/img/hero/hero3.jpg" class="d-block img-responsive img-center" alt="Rololux zavese">
+                    <img src="/img/hero/hero3.jpg" class="d-block img-fluid img-center" alt="Rololux zavese">
                     <div class="carousel-caption"
                          <p>Odlična toplotna i zvučna izolacija!</p>
                     </div>
                 </div>
                 <div class="box carousel-item">
-                    <img src="/img/hero/hero4.jpg" class="d-block img-responsive img-center" alt="Rololux zavese">
+                    <img src="/img/hero/hero4.jpg" class="d-block img-fluid img-center" alt="Rololux zavese">
                     <div class="carousel-caption"
                         <p>Brzo i trajno!</p>
                     </div>
@@ -112,10 +112,10 @@
     </section>
 
     <!-- Roletne -->
-    <section id="rololux1">
+    <section >
         <div class="roletne">
             <header class="header-content">
-                <h1>Roletne</h1>
+                <h1 id="rololux1">Roletne</h1>
             </header>
             <div class="row row-content">
                 <div class="col-sm-12 col-md-6 col-lg-6">
