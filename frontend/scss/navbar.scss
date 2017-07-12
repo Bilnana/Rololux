@@ -2,6 +2,9 @@
 /* general styles */
 .navbar{
   background: url(/img/navpic.jpg);
+  @include media-breakpoint-down(xs) {
+    width: 100%;
+  }
 }
 .navbar li{
   padding-left: 30px;
@@ -12,16 +15,25 @@
   font-family:'Big-John';
   font-size: 34px;
   color: #800000;
+  @include media-breakpoint-down(xs) {
+    font-size: 20px;
+  }
 }
 .navbar .lux{
   font-family:'Big-John';
   font-size: 34px;
   color: $white;
+  @include media-breakpoint-down(xs) {
+    font-size: 20px;
+  }
 }
 .navbar .ns{
   font-family:'Big-John';;
   font-size: 34px;
   color: $white;
+  @include media-breakpoint-down(xs) {
+    font-size: 20px;
+  }
 }
 
 .navbar-nav, .navbar-nav ul {
@@ -41,13 +53,10 @@
 .navbar ul a:active{
   color: $white;
 }
-
-
 .navbar-nav .submenu a {
   color: $gray-lighter;
   text-decoration: none;
 }
-
   //submenu
 .submenu {
   right: 5%;
