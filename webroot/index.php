@@ -21,8 +21,8 @@
 
 <div class="container">
     <!-- Navigation -->
-    <nav class="navbar sticky-top navbar-inverse navbar-toggleable-md container">
-    <div id="navbar" class="navbar sticky-top navbar-inverse navbar-toggleable-md container">
+    <nav class="navbar fixed-top navbar-inverse navbar-toggleable-md">
+        <div class="container box">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarmain" aria-controls="navbarsExampleContainer" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -54,7 +54,7 @@
                     </li>
                 </ul>
             </div>
-    </div>
+        </div>
     </nav>
 
     <!-- Header slider -->
