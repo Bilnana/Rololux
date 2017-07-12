@@ -37,8 +37,6 @@
   @include media-breakpoint-down(xs) {
     display: none;
   }
-    bottom: 0;
-    left:0;
 }
 .mainhead .carousel-inner{
     position: relative;
@@ -57,6 +55,7 @@
     font-family: 'Amble-Regular';
     font-size: 16px;
 }
+
 .o-nama-box h1{
   font-family:'Big-John';
   font-size: 30px;
