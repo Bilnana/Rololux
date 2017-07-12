@@ -616,7 +616,7 @@
                 </ul>
             </div>
             <div class="author col-sm-12">
-                <p>Copyright &copy; <a href="https://gitlab.com/marKoZz94">Marko Marijanski</a> & <a href="https://gitlab.com/Bilja">Biljana Ljubojević 2017</a></p>
+                <p>Copyright &copy; <a href="https://gitlab.com/marKoZz94">Marko Marijanski</a> & <a href="https://gitlab.com/Bilja">Biljana Ljubojević</a> 2017</p>
             </div>
         </div>
     </footer>
