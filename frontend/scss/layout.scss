@@ -1,13 +1,36 @@
+
+/******************* COMMON CLASSES *************/
+.header-content {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+  font-family: 'Amble-Bold';
+  @include media-breakpoint-down(xs) {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
+
+h1{
+  font-family:'Big-John';
+  font-size: 30px;
+  @include media-breakpoint-down(xs) {
+    font-size: 20px;
+  }
+}
+/******************* COMMON CLASSES ***********/
+
 /******************* HEADER *******************/
-    /*slider*/
+/*slider*/
+
 .mainhead .carousel-inner  .box {
-    padding-left: 0;
-    padding-right: 0;
-    width:100%;
-    height: 590px;
-    @include media-breakpoint-down(xs) {
-      height:auto;
-    }
+  padding-left: 0;
+  padding-right: 0;
+  width:100%;
+  height: 590px;
+  @include media-breakpoint-down(xs) {
+    height:auto;
+  }
 }
 
 .mainhead .carousel-inner .box img {
@@ -31,13 +54,18 @@
       height: 60px;
     }
 }
-.mainhead .carousel-indicators,
 .mainhead .carousel-indicators li {
-
+  background-color: $gray-lightest;
   @include media-breakpoint-down(xs) {
     display: none;
   }
 }
+.mainhead .carousel-indicators .active {
+  background-color:#800000;
+}
+  @include media-breakpoint-down(xs) {
+    display: none;
+  }
 .mainhead .carousel-inner{
     position: relative;
     width: 100%;
@@ -56,11 +84,6 @@
     font-size: 16px;
 }
 
-.o-nama-box h1{
-  font-family:'Big-John';
-  font-size: 30px;
-}
-
 /*************SECTION O NAMA******************/
 
 
@@ -71,23 +94,6 @@
     font-family:'Amble-Regular';
     font-size: 16px;
 }
-
-.roletne h1{
-  font-family:'Big-John';
-  font-size: 30px;
-}
-
-.roletne .header-content {
-  margin-top: 30px;
-  margin-bottom: 30px;
-  text-align: center;
-  font-family: 'Amble-Bold';
-  @include media-breakpoint-down(xs) {
-    margin-top: 0;
-    margin-bottom: 0;
-  }
-}
-
 
 .slider1 .carousel-inner  .box {
     padding-left: 0;
@@ -128,11 +134,6 @@
   background-color:#f5f5f5;
   font-family:'Amble-Regular';
   font-size: 16px;
-}
-
-.tende h1{
-  font-family:'Big-John';
-  font-size: 30px;
 }
 
 .slider2 .carousel-inner  .box {
@@ -178,17 +179,6 @@
   padding-bottom: 3%;
 }
 
-.venecijaneri h1{
-  font-family:'Big-John';
-  font-size: 30px;
-}
-
-.header-content{
-  margin-top: 30px;
-  margin-bottom: 30px;
-  text-align: center;
-  font-family:'Amble-Bold';
-}
 .venecijaneri .slider2 .carousel-inner  .box {
   padding-left: 0;
   padding-right: 0;
@@ -227,18 +217,8 @@
   font-size: 16px;
   padding-bottom: 3%;
 }
-.rolozavese h1{
-  font-family:'Big-John';
-  font-size: 30px;
-}
-.header-content{
-  margin-top: 33px;
-  margin-bottom: 30px;
-  text-align: center;
-  font-family:'Amble-Bold';
-}
+
 .rolozavese .carousel-inner{
-  background-color: $white;
   margin-top: 80px;
   padding-bottom: 120px;
 }
@@ -265,16 +245,7 @@
   font-size: 16px;
   padding-bottom: 15%;
 }
-.trakaste h1{
-  font-family:'Big-John';
-  font-size: 30px;
-}
-trakaste .header-content{
-  margin-top: 30px;
-  margin-bottom: 30px;
-  text-align: center;
-  font-family:'Amble-Bold';
-}
+
 .trakaste .slider2 .carousel-inner  .box {
   padding-left: 0;
   padding-right: 0;
@@ -311,16 +282,7 @@ trakaste .header-content{
   font-size: 16px;
   padding-bottom: 10%;
 }
-.komarnici h1{
-  font-family:'Big-John';
-  font-size: 30px;
-}
-.komarnici .header-content{
-  margin-top: 30px;
-  margin-bottom: 30px;
-  text-align: center;
-  font-family:'Amble-Bold';
-}
+
 .komarnici .galerija{
   margin-top: 90px;
   margin-bottom: 110px;
@@ -335,16 +297,7 @@ trakaste .header-content{
   font-size: 16px;
   padding-bottom:15%;
 }
-.dihtovanje h1{
-  font-family:'Big-John';
-  font-size: 30px;
-}
-.dihtovanje .header-content{
-  margin-top: 30px;
-  margin-bottom: 30px;
-  text-align: center;
-  font-family:'Amble-Bold';
-}
+
 .dihtovanje .slider2 .carousel-inner  .box {
   padding-left: 0;
   padding-right: 0;
@@ -383,16 +336,6 @@ trakaste .header-content{
   font-size: 16px;
   padding-bottom: 10%;
 }
-.servisiranje h1{
-  font-family:'Big-John';
-  font-size: 30px;
-}
-.servisiranje .header-content{
-  margin-top: 30px;
-  margin-bottom: 30px;
-  text-align: center;
-  font-family:'Amble-Bold';
-}
 
 .servisiranje .text-blok2{
   text-align:justify;
@@ -408,16 +351,6 @@ trakaste .header-content{
   font-family:'Amble-Regular';
   font-size: 16px;
   padding-bottom: 10%;
-}
-.adaptacija h1{
-  font-family:'Big-John';
-  font-size: 30px;
-}
-.adaptacija.header-content{
-  margin-top: 30px;
-  margin-bottom: 30px;
-  text-align: center;
-  font-family:'Amble-Bold';
 }
 
 .galerija{
