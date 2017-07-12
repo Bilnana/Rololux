@@ -30,7 +30,7 @@
             <div class="collapse navbar-collapse justify-content-end" id="navbarmain">
                 <ul class="navbar-nav">
                     <li class="nav-item active" data-toggle="collapse" data-target=".navbar-collapse.show">
-                        <a class="nav-link" href="#">Početna</a>
+                        <a class="nav-link" href="#mainhead">Početna</a>
                     </li>
                     <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
                         <a class="nav-link" href="#o-nama" data-target=".navbar-collapse.in">O Nama</a>
@@ -58,7 +58,7 @@
     </nav>
 
     <!-- Header slider -->
-    <header class="mainhead">
+    <header id="mainhead" class="mainhead">
         <div id="crausel-big" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-target="#crausel-big" data-slide-to="0" class="active"></li>
