@@ -434,12 +434,22 @@ h1{
     display: block;
     font-family:'Amble-Bold';
     padding-top: 80px;
+    height: 100%;
+    @include media-breakpoint-down(xs) {
+      margin-left:0;
+      padding-left:0;
+    }
 }
+
 .footer .nav-footer li{
     display: inline;
     padding-left: 40px;
     list-style-type: none;
+    @include media-breakpoint-down(xs) {
+      padding-left: 15px;
+    }
  }
+
 .footer .nav-footer li a{
     border-bottom: 2px solid $blue;
     text-decoration: none;
@@ -474,10 +484,14 @@ h1{
 
 .footer .social{
     margin: auto;
+    height: 100%;
 }
 
 .footer .social img{
     padding: 60px 0 0 95px;
+    @include media-breakpoint-down(xs) {
+      padding: 20px 0 0 0;
+    }
 }
 
 .footer .author{
